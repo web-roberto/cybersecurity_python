@@ -17,7 +17,7 @@ with col1:
     st.info("CYBERSECURITY TOOL -> Perform searches using the Google custom search API: Command Line")
     st.error("CYBERSECURITY TOOL -> Perform a Google search using an API KEY and a SEARCH ENGINE ID stored in a .env file.")
     st.success("CYBERSECURITY TOOL -> Perform a Google search and downloads files from URLs and save them locally.")
-    st.warning("CYBERSECURITY TOOL -> Class that represents an artificial intelligence agent capable of generating Google Dorks based on descriptions provided by the user.")
+    st.warning("CYBERSECURITY TOOL -> Artificial intelligence agent capable of generating Google Dorks based on descriptions provided by the user.")
     st.info("CYBERSECURITY TOOL -> ...")
     st.error("CYBERSECURITY TOOL -> ...")
     st.success("CYBERSECURITY TOOL -> ...")
