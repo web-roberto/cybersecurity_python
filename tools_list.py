@@ -249,6 +249,7 @@ with col1:
     st.info("CYBERSECURITY TOOL -> ...")
     st.error("CYBERSECURITY TOOL -> ...")
     st.success("CYBERSECURITY TOOL -> ...")
+    st.link_button("App running", "")
     st.warning("CYBERSECURITY TOOL -> ...")
     st.info("CYBERSECURITY TOOL -> ...")
     st.error("CYBERSECURITY TOOL -> ...")
@@ -410,6 +411,5 @@ with col2:
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/8_6_evasion_defensas")
     st.write('')
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/8_7_exfiltracion_esteganografia")
-    st.link_button("App running", "")
 
    
