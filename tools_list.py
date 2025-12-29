@@ -408,6 +408,7 @@ with col2:
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/8_5_2_windows_service")
     st.write('')
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/8_6_evasion_defensas")
+    st.write('')
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/8_7_exfiltracion_esteganografia")
     st.link_button("App running", "")
 
