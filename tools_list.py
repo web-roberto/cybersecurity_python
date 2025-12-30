@@ -28,15 +28,15 @@ with col1:
     st.success("Roberto's Cyber Tool -> Shodan with Python - Authentication and Login Automation")  #  2_1_1_shodan_python ->59
     st.success("Roberto's Cyber Tool -> Authentication and Login Automation ")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
     st.success("Roberto's Cyber Tool -> Selenium: Authentication and Login Automation ")  # 2_1_3_auth_login_selenium -> 61
-    st.success("Roberto's Cyber Tool -> ........ ")  # 2_1_4_multithreading_python -> 63
-    st.success("Roberto's Cyber Tool ->  ........")  # 2_2_waybackmachine
-    st.success("Roberto's Cyber Tool ->  ........")  # 2_3_dns_enumeration
-    st.success("Roberto's Cyber Tool ->  ........")  # 2_4_whois_enumeration
-    st.success("Roberto's Cyber Tool ->  ........")  # 2_5_ip_geolocation
-    st.info("Roberto's Cyber Tool ->  ........")  # 2_6_phone_geolocation
-    st.error("Roberto's Cyber Tool ->  ........")  # 2_7_metadata_analyzer
+    st.success("Roberto's Cyber Tool -> Multithreading with Python ")  # 2_1_4_multithreading_python -> 63
+    st.success("Roberto's Cyber Tool -> Waybackmachine")  # 2_2_waybackmachine
+    st.success("Roberto's Cyber Tool -> Dns Enumeration")  # 2_3_dns_enumeration
+    st.success("Roberto's Cyber Tool -> Whois Enumeration")  # 2_4_whois_enumeration
+    st.success("Roberto's Cyber Tool -> Ip Geolocation")  # 2_5_ip_geolocation
+    st.info("Roberto's Cyber Tool -> Phone Geolocation")  # 2_6_phone_geolocation
+    st.error("Roberto's Cyber Tool -> Metadata Analyzer")  # 2_7_metadata_analyzer
     
-    st.success("CYBERSECURITY TOOL -> ........")  # 3_1_sniffer_tshark
+    st.success("CYBERSECURITY TOOL -> Sniffer Tshark")  # 3_1_sniffer_tshark
     st.warning("CYBERSECURITY TOOL -> ........")  # 3_2_sniffer_scapy
     st.info("CYBERSECURITY TOOL ->  ........")  # 3_3_sockets
     st.error("CYBERSECURITY TOOL ->  ........")  # 3_4_1_escaneo_hosts_sockets
