@@ -21,6 +21,7 @@ with col1:
             background-color:#2ecc71;
             color:white;
             padding:0.5em 1em;
+            margin:0.5em;
             border:none;
             border-radius:8px;
             cursor:pointer;
