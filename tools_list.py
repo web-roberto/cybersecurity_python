@@ -12,7 +12,7 @@ st.toast("Loading...")
 links = [
     {"href": "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py",
     "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines",
-    "background": "#ff00ff" },
+    "fondo": "#ff00ff" },
     # 1_1_1_hacking_buscadores_parte1
 ]
 
