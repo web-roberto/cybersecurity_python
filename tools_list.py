@@ -12,18 +12,18 @@ st.toast("Loading...")
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
 
 with col1:
-    st.success("Roberto's CYBER TOOL -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
-    st.success("Roberto's Cyber Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
-    st.success("Roberto's Cyber Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
-    st.success("Roberto's Cyber Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
-    st.success("Roberto's Cyber Tool -> Google Hacking -> File Handling")  # 1_1_6_manejo_ficheros -> 43
-    st.success("Roberto's Cyber Tool -> Google Hacking -> Dorks with AI GPT4ALL")  # 1_1_7_dorks_ia_GPT4All -> 47
-    st.success("Roberto's Cyber Tool -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
-    st.success("Roberto's Cyber Tool  -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 -part 2")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
-    st.success("Roberto's Cyber Tool -> Information filtering with RegEx")  # 1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
-    st.success("Roberto's Cyber Tool  -> Information filtering with AI")  # 1_2_2_filtrado_informacion_IA->52
-    st.success("Roberto's Cyber Tool -> NinjaDork and Selenium Automation")  # 1_3_automatizacion_selenium -> 52
-    st.success("Roberto's Cyber Tool -> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> File Handling")  # 1_1_6_manejo_ficheros -> 43
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Dorks with AI GPT4ALL")  # 1_1_7_dorks_ia_GPT4All -> 47
+    st.success("Roberto's Cybersecurity Tool -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
+    st.success("Roberto's Cybersecurity Tool  -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 -part 2")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
+    st.success("Roberto's Cybersecurity Tool -> Information filtering with RegEx")  # 1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
+    st.success("Roberto's Cybersecurity Tool  -> Information filtering with AI")  # 1_2_2_filtrado_informacion_IA->52
+    st.success("Roberto's Cybersecurity Tool -> NinjaDork and Selenium Automation")  # 1_3_automatizacion_selenium -> 52
+    st.success("Roberto's Cybersecurity Tool -> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
     
     st.success("Roberto's Cyber Tool -> Shodan with Python - Authentication and Login Automation")  #  2_1_1_shodan_python ->59
     st.success("Roberto's Cyber Tool -> Authentication and Login Automation")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
