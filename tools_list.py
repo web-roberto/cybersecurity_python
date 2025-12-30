@@ -80,7 +80,7 @@ with col1:
     st.error("CYBERSECURITY TOOL -> 7_1_...")  # 7_1_spidering
     st.success("CYBERSECURITY TOOL -> 7_2_1_...")  # 7_2_1_zap_analyzer
     st.warning("CYBERSECURITY TOOL -> 7_2_2...")  # 7_2_2_zap_analisis_pasivo
-     st.warning("CYBERSECURITY TOOL -> 7_2_3...")  # 7_2_3_zap_analisis_activo
+    st.warning("CYBERSECURITY TOOL -> 7_2_3...")  # 7_2_3_zap_analisis_activo
     st.info("CYBERSECURITY TOOL -> 7_3...") # 7_3_autenticacion_python
     st.error("CYBERSECURITY TOOL ->7_4...")  # 7_4_xss_scanner
     st.success("CYBERSECURITY TOOL -> 7_5...")  # 7_5_sqli_scanner
