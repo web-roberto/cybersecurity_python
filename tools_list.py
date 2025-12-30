@@ -21,7 +21,7 @@ links = [
     "fondo": "red" }, # 1_1_4_argumentos_linea_comandos -> 41
     {"href": "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_5_generacion_resultados",
     "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results",
-    "fondo": "blueviolet" }, # 1_1_5_generacion_resultados -> 42
+    "fondo": "yellowgreen" }, # 1_1_5_generacion_resultados -> 42
     {"href": "",
     "text": "",
     "fondo": "" }, # 
