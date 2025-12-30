@@ -12,62 +12,60 @@ st.toast("Loading...")
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
 
 with col1:
-    st.success("Ethical hacking Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
-    st.success("Ethical hacking Tool -> Google Hacking -> ")  # 1_1_3_ejecucion_scripts_python -> 40
-    st.success("Ethical hacking Tool -> Google Hacking -> ")  # 1_1_4_argumentos_linea_comandos -> 41
-    st.success("Ethical hacking Tool -> Google Hacking -> ")  # 1_1_5_generacion_resultados -> 42
-    st.success("Ethical hacking Tool -> Google Hacking -> ")  # 1_1_6_manejo_ficheros -> 43
-    st.success("Ethical hacking Tool -> Google Hacking -> ")  # 1_1_7_dorks_ia_GPT4All -> 47
-    st.success("Ethical hacking Tool -> Google Hacking with AI-> ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
-    st.success("Ethical hacking Tool -> Google Hacking with AI-> ")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
-    st.success("Ethical hacking Tool -> Information filtering with RegEx -> ")  # 1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
-    st.success("Ethical hacking Tool -> Information filtering with AI-> ")  # 1_2_2_filtrado_informacion_IA->52
-    st.success("Ethical hacking Tool -> NinjaDork and Selenium -> ")  # 1_3_automatizacion_selenium -> 52
-    st.success("Ethical hacking Tool-> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
+    st.success("Roberto's Cyber Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
+    st.success("Roberto's Cyber Tool -> Google Hacking -> ........")  # 1_1_3_ejecucion_scripts_python -> 40
+    st.success("Roberto's Cyber Tool -> Google Hacking -> ........")  # 1_1_4_argumentos_linea_comandos -> 41
+    st.success("Roberto's Cyber Tool -> Google Hacking -> ........")  # 1_1_5_generacion_resultados -> 42
+    st.success("Roberto's Cyber Tool -> Google Hacking -> ........")  # 1_1_6_manejo_ficheros -> 43
+    st.success("Roberto's Cyber Tool -> Google Hacking -> ........")  # 1_1_7_dorks_ia_GPT4All -> 47
+    st.success("Roberto's Cyber Tool -> Google Hacking with AI-> ........")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
+    st.success("Roberto's Cyber Tool  -> Google Hacking with AI-> ........")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
+    st.success("Roberto's Cyber Tool -> Information filtering with RegEx -> ........")  # 1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
+    st.success("Roberto's Cyber Tool  -> Information filtering with AI-> ........")  # 1_2_2_filtrado_informacion_IA->52
+    st.success("Roberto's Cyber Tool -> NinjaDork and Selenium -> ........")  # 1_3_automatizacion_selenium -> 52
+    st.success("Roberto's Cyber Tool -> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
     
-    st.success("Ethical hacking Tool-> Shodan with Python- Authentication and Login Automation")  #  2_1_1_shodan_python ->59
-    st.success("Ethical hacking Tool-> Authentication and Login Automation ")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
-    st.success("Ethical hacking Tool-> Selenium: Authentication and Login Automation ")  # 2_1_3_auth_login_selenium -> 61
-    st.success("Ethical hacking Tool-> ")  # 2_1_4_multithreading_python -> 63
-    st.success("Ethical hacking Tool-> ")  # 2_2_waybackmachine
-    st.success("Ethical hacking Tool-> ")  # 2_3_dns_enumeration
-    st.success("Ethical hacking Tool-> ")  # 2_4_whois_enumeration
-    st.success("Ethical hacking Tool-> ")  # 2_5_ip_geolocation
-    st.info("Ethical hacking Tool-> ")  # 2_6_phone_geolocation
-    st.error("CYBERSECURITY TOOL -> 2_7...")  # 2_7_metadata_analyzer
+    st.success("Roberto's Cyber Tool -> Shodan with Python - Authentication and Login Automation")  #  2_1_1_shodan_python ->59
+    st.success("Roberto's Cyber Tool -> Authentication and Login Automation ")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
+    st.success("Roberto's Cyber Tool -> Selenium: Authentication and Login Automation ")  # 2_1_3_auth_login_selenium -> 61
+    st.success("Roberto's Cyber Tool -> ........ ")  # 2_1_4_multithreading_python -> 63
+    st.success("Roberto's Cyber Tool ->  ........")  # 2_2_waybackmachine
+    st.success("Roberto's Cyber Tool ->  ........")  # 2_3_dns_enumeration
+    st.success("Roberto's Cyber Tool ->  ........")  # 2_4_whois_enumeration
+    st.success("Roberto's Cyber Tool ->  ........")  # 2_5_ip_geolocation
+    st.info("Roberto's Cyber Tool ->  ........")  # 2_6_phone_geolocation
+    st.error("Roberto's Cyber Tool ->  ........")  # 2_7_metadata_analyzer
     
-    st.success("CYBERSECURITY TOOL -> 3_1...")  # 3_1_sniffer_tshark
-    st.warning("CYBERSECURITY TOOL ->3_2 ...")  # 3_2_sniffer_scapy
-    st.info("CYBERSECURITY TOOL -> 3_3...")  # 3_3_sockets
-    st.error("CYBERSECURITY TOOL -> 3_4_1...")  # 3_4_1_escaneo_hosts_sockets
-    st.success("CYBERSECURITY TOOL -> 3_4_2...")  # 3_4_2_escaneo_hosts_scapy
-    st.warning("CYBERSECURITY TOOL -> 3_4_3...")  # 3_4_3_escaneo_arp
-    st.info("CYBERSECURITY TOOL -> 3_4_4...")  # 3_4_4_escaneo_puerto
-    st.error("CYBERSECURITY TOOL -> 3_4_5...")  #  3_4_5_escaneo_servicios
-    st.success("CYBERSECURITY TOOL -> 3_4_6...")  # 3_4_6_descubrimiento_recursos_red
-    st.error("CYBERSECURITY TOOL -> 3_4_5...")  #  3_5_nmap_scanner_python
-    st.success("CYBERSECURITY TOOL -> 3_4_6...")  # 3_6_escaneo_priorizacion_IA
+    st.success("CYBERSECURITY TOOL -> ........")  # 3_1_sniffer_tshark
+    st.warning("CYBERSECURITY TOOL -> ........")  # 3_2_sniffer_scapy
+    st.info("CYBERSECURITY TOOL ->  ........")  # 3_3_sockets
+    st.error("CYBERSECURITY TOOL ->  ........")  # 3_4_1_escaneo_hosts_sockets
+    st.success("CYBERSECURITY TOOL ->  ........")  # 3_4_2_escaneo_hosts_scapy
+    st.warning("CYBERSECURITY TOOL ->  ........")  # 3_4_3_escaneo_arp
+    st.info("CYBERSECURITY TOOL ->  ........")  # 3_4_4_escaneo_puerto
+    st.error("CYBERSECURITY TOOL ->  ........")  #  3_4_5_escaneo_servicios
+    st.success("CYBERSECURITY TOOL ->  ........")  # 3_4_6_descubrimiento_recursos_red
+    st.error("CYBERSECURITY TOOL ->  ........")  #  3_5_nmap_scanner_python, que seria 3_4_5
+    st.success("CYBERSECURITY TOOL ->  ........")  # 3_6_escaneo_priorizacion_IA, que seria 3_4_6
 
+    st.warning("CYBERSECURITY TOOL ->  ........")  # 4_1_beautiful_soup
+    st.info("CYBERSECURITY TOOL ->  ........")  # 4_2_1_escaner_vulnerabilidades_CVEs
+    st.error("CYBERSECURITY TOOL ->  ........")  # 4_2_2_escaner_vulnerabilidades_CVSS
+    st.success("CYBERSECURITY TOOL ->  ........")  # 4_2_3_escaner_vulnerabilidades_resultados
+    st.warning("CYBERSECURITY TOOL ->  ........")  # 4_3_1_escaner_Nessus_creacion_sesion
+    st.info("CYBERSECURITY TOOL ->  ........")  # 4_3_2_escaner_Nessus_creacion_escaneo
+    st.error("CYBERSECURITY TOOL ->  ........")  # 4_3_3_escaner_Nessus_resultado
 
-    st.warning("CYBERSECURITY TOOL -> /4_1...")  # 4_1_beautiful_soup
-    st.info("CYBERSECURITY TOOL -> /4_2_1...")  # 4_2_1_escaner_vulnerabilidades_CVEs
-    st.error("CYBERSECURITY TOOL -> /4_2_2...")  # 4_2_2_escaner_vulnerabilidades_CVSS
-    st.success("CYBERSECURITY TOOL -> /4_2_3...")  # 4_2_3_escaner_vulnerabilidades_resultados
-    st.warning("CYBERSECURITY TOOL -> 4_3_1_...")  # 4_3_1_escaner_Nessus_creacion_sesion
-    st.info("CYBERSECURITY TOOL -> 4_3_2_...")  # 4_3_2_escaner_Nessus_creacion_escaneo
-    st.error("CYBERSECURITY TOOL -> 4_3_3...")  # 4_3_3_escaner_Nessus_resultado
-
-    
-    st.success("CYBERSECURITY TOOL -> 5_1_...") # 5_1_exploit_proftpd
-    st.warning("CYBERSECURITY TOOL -> 5_2_...")  # 5_2_exploit_unrealircd
-    st.info("CYBERSECURITY TOOL ->5_3_ ...")   # 5_3_tcp_reverse_shell
-    st.error("CYBERSECURITY TOOL -> 5_4_1_...")  #  5_4_1_http_reverse_shell
-    st.success("CYBERSECURITY TOOL -> 5_4_2_...")  # 5_4_2_one_liner_IA
-    st.warning("CYBERSECURITY TOOL -> 5_5_...")  # 5_5_https_reverse_shell
-    st.info("CYBERSECURITY TOOL -> 5_6_1_...")  # 5_6_1_pymetasploit_modulos_exploits
-    st.error("CYBERSECURITY TOOL -> 5_6_2_...")  # 5_6_2_pymetasploit_ejecucion_exploits
-    st.success("CYBERSECURITY TOOL -> 5_6_3...")  # 5_6_3_pymetasploit_manejo_sesiones
-    st.warning("CYBERSECURITY TOOL -> 5_7...")  # 5_7_keylogger
+    st.success("CYBERSECURITY TOOL ->  ........") # 5_1_exploit_proftpd
+    st.warning("CYBERSECURITY TOOL ->  ........")  # 5_2_exploit_unrealircd
+    st.info("CYBERSECURITY TOOL -> ........")   # 5_3_tcp_reverse_shell
+    st.error("CYBERSECURITY TOOL ->  ........")  #  5_4_1_http_reverse_shell
+    st.success("CYBERSECURITY TOOL ->  ........")  # 5_4_2_one_liner_IA
+    st.warning("CYBERSECURITY TOOL ->  ........")  # 5_5_https_reverse_shell
+    st.info("CYBERSECURITY TOOL ->  ........")  # 5_6_1_pymetasploit_modulos_exploits
+    st.error("CYBERSECURITY TOOL ->  ........")  # 5_6_2_pymetasploit_ejecucion_exploits
+    st.success("CYBERSECURITY TOOL ->  ........")  # 5_6_3_pymetasploit_manejo_sesiones
+    st.warning("CYBERSECURITY TOOL ->  ........")  # 5_7_keylogger
 
     st.info("CYBERSECURITY TOOL ->6_1_ ...")  # 6_1_arp_spoofing
     st.error("CYBERSECURITY TOOL -> 6_2_1_...")  # 6_2_1_netfilterqueue_interceptacion
