@@ -13,7 +13,7 @@ links = [
     {"href": "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py",
     "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines",
     "background":#2ecc71 },
-    # puedes añadir más aquí
+    # 1_1_1_hacking_buscadores_parte1
 ]
 
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
