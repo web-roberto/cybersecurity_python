@@ -12,25 +12,27 @@ st.toast("Loading...")
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
 
 with col1:
-    st.success("CYBERSECURITY TOOL -> Constants for configuring the Google custom search API")
-    st.warning("CYBERSECURITY TOOL -> Perform searches using the Google custom search API.")
-    st.info("CYBERSECURITY TOOL -> Perform searches using the Google custom search API: Command Line")
-    st.error("CYBERSECURITY TOOL -> Perform a Google search using an API KEY and a SEARCH ENGINE ID stored in a .env file.")
-    st.success("CYBERSECURITY TOOL -> Perform a Google search and downloads files from URLs and save them locally.")
-    st.warning("CYBERSECURITY TOOL -> Artificial intelligence agent capable of generating Google Dorks based on descriptions provided by the user.")
-    st.info("CYBERSECURITY TOOL -> 1_1_8_do...")
-    st.error("CYBERSECURITY TOOL -> 1_1_9...")
-    st.success("CYBERSECURITY TOOL -> 1_2_1...")
-    st.warning("CYBERSECURITY TOOL -> 1_2_2_...")
-    st.info("CYBERSECURITY TOOL ->1_3 ...")
-    st.error("CYBERSECURITY TOOL -> 1_4_...")
-    st.success("CYBERSECURITY TOOL -> 2_1_1...")
-    st.warning("CYBERSECURITY TOOL -> 2_1_2...")
-    st.info("CYBERSECURITY TOOL ->2_2 ...")
-    st.error("CYBERSECURITY TOOL -> 2_3...")
-    st.success("CYBERSECURITY TOOL -> 2_4...")
-    st.warning("CYBERSECURITY TOOL -> 2_5...")
-    st.info("CYBERSECURITY TOOL -> 2_6...")
+    st.success("Ethical hacking Tool: GOOGLE HACKING-> Hacking search engines") //1_1_1_hacking_buscadores_parte1
+    st.success("Ethical hacking Tool: GOOGLE HACKING-> ") //1_1_3_ejecucion_scripts_python -> 40
+    st.success("Ethical hacking Tool: GOOGLE HACKING-> ") //1_1_4_argumentos_linea_comandos -> 41
+    st.success("Ethical hacking Tool: GOOGLE HACKING-> ") //1_1_5_generacion_resultados -> 42
+    st.success("Ethical hacking Tool: GOOGLE HACKING-> ") //1_1_6_manejo_ficheros -> 43
+    st.success("Ethical hacking Tool: GOOGLE HACKING-> ") //1_1_7_dorks_ia_GPT4All -> 47
+    st.success("Ethical hacking Tool: GOOGLE HACKING with AI-> ") //1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
+    st.success("Ethical hacking Tool: GOOGLE HACKING with AI-> ") //1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
+    st.success("Ethical hacking Tool: Information filtering with RegEx -> ") //1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
+    st.success("Ethical hacking Tool: Information filtering with AI-> ") //1_2_2_filtrado_informacion_IA->52
+    st.success("Ethical hacking Tool: NinjaDork and Selenium -> ") //1_3_automatizacion_selenium -> 52
+    st.success("Ethical hacking Tool-> Hacking with Search Engines and Selenium") //1_4_hacking_buscadores_selenium -> 54
+    st.success("Ethical hacking Tool-> Shodan with Python- Authentication and Login Automation") // 2_1_1_shodan_python ->59
+    st.success("Ethical hacking Tool-> Authentication and Login Automation ") //2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
+    st.success("Ethical hacking Tool-> Selenium: Authentication and Login Automation ") //2_1_3_auth_login_selenium -> 61
+    st.success("Ethical hacking Tool-> ") //2_1_4_multithreading_python -> 63
+    st.success("Ethical hacking Tool-> ") ///2_2_waybackmachine
+    st.success("Ethical hacking Tool-> ") //2_3_dns_enumeration
+    st.success("Ethical hacking Tool-> ") //2_4_whois_enumeration
+    st.success("Ethical hacking Tool-> ") //2_5_ip_geolocation
+    st.info("Ethical hacking Tool-> ") //2_6_phone_geolocation
     st.error("CYBERSECURITY TOOL -> 2_7...")
     st.success("CYBERSECURITY TOOL -> 3_1...")
     st.warning("CYBERSECURITY TOOL ->3_2 ...")
