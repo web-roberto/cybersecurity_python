@@ -12,7 +12,7 @@ st.toast("Loading...")
 links = [
     {"href": "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py",
     "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines",
-    "fondo": "#ff00ff" },
+    "fondo": "#00ff00" },
     # 1_1_1_hacking_buscadores_parte1
 ]
 
@@ -22,7 +22,7 @@ with col1:
     # st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
     for link in links:
       st.markdown(f"""<a href="{link['href']}" target="_blank">
-            <button style="background-color:#ff00ff;color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
+            <button style="background-color:link['fondo'];color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
                 {link['text']}
             </button></a>""",unsafe_allow_html=True)
     st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
