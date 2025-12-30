@@ -41,7 +41,7 @@ with col1:
     st.info("Roberto's Cybersecurity Tool ->  Sockets")  # 3_3_sockets
     st.error("Roberto's Cybersecurity Tool -> Scan of Hosts Sockets")  # 3_4_1_escaneo_hosts_sockets
     st.warning("Roberto's Cybersecurity Tool -> Scan of Hosts Scapy")  # 3_4_2_escaneo_hosts_scapy
-    st.warning("Roberto's Cybersecurity Tool -> Scan ARP")  # 3_4_3_escaneo_arp
+    st.success("Roberto's Cybersecurity Tool -> Scan ARP")  # 3_4_3_escaneo_arp
     st.info("Roberto's Cybersecurity Tool ->  Scan of ports")  # 3_4_4_escaneo_puerto
     st.error("Roberto's Cybersecurity Tool ->  Scan of Services")  #  3_4_5_escaneo_servicios
     st.success("Roberto's Cybersecurity Tool -> Discovery of Resources Network")  # 3_4_6_descubrimiento_recursos_red
@@ -80,7 +80,7 @@ with col1:
     st.error("Roberto's Cybersecurity Tool -> Spidering")  # 7_1_spidering
     st.success("Roberto's Cybersecurity Tool -> ZAP Analyzer.")  # 7_2_1_zap_analyzer
     st.warning("Roberto's Cybersecurity Tool -> ZAP Passive Analysis")  # 7_2_2_zap_analisis_pasivo
-    st.warning("Roberto's Cybersecurity Tool -> ZAP Active Analysis")  # 7_2_3_zap_analisis_activo
+    st.error("Roberto's Cybersecurity Tool -> ZAP Active Analysis")  # 7_2_3_zap_analisis_activo
     st.info("Roberto's Cybersecurity Tool -> Autenticacion Python") # 7_3_autenticacion_python
     st.error("Roberto's Cybersecurity Tool -> XSS Scanner")  # 7_4_xss_scanner
     st.success("Roberto's Cybersecurity Tool -> SQLi Scanner")  # 7_5_sqli_scanner
