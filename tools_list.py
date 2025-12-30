@@ -12,8 +12,10 @@ st.toast("Loading...")
 links = [
     {"href": "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py",
     "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines",
-    "fondo": "darkmagenta" },
-    # 1_1_1_hacking_buscadores_parte1
+    "fondo": "darkmagenta" }, # 1_1_1_hacking_buscadores_parte1
+     {"href": "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_3_ejecucion_scripts_python",
+    "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts",
+    "fondo": "blue" }, # 1_1_3_ejecucion_scripts_python -> 40
 ]
 
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
@@ -25,7 +27,7 @@ with col1:
             <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
                 {link['text']}
             </button></a>""",unsafe_allow_html=True)
-    st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
+    # st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
     st.error("Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
     st.warning("Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
     st.success("Roberto's Cybersecurity Tool -> Google Hacking -> File Handling")  # 1_1_6_manejo_ficheros -> 43
@@ -112,8 +114,8 @@ with col1:
 with col2:
     #st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py")
     #st.write('')
-    st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_3_ejecucion_scripts_python")
-    st.write('')
+    #st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_3_ejecucion_scripts_python")
+    #st.write('')
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_4_argumentos_linea_comandos")
     st.write('')
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_5_generacion_resultados")
