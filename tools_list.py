@@ -13,90 +13,90 @@ col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=Tr
 
 with col1:
     st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
-    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
-    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
-    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
+    st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
+    st.error("Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
+    st.warning("Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
     st.success("Roberto's Cybersecurity Tool -> Google Hacking -> File Handling")  # 1_1_6_manejo_ficheros -> 43
-    st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Dorks with AI GPT4ALL")  # 1_1_7_dorks_ia_GPT4All -> 47
-    st.success("Roberto's Cybersecurity Tool -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
-    st.success("Roberto's Cybersecurity Tool  -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 -part 2")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
+    st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Dorks with AI GPT4ALL")  # 1_1_7_dorks_ia_GPT4All -> 47
+    st.error("Roberto's Cybersecurity Tool -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
+    st.warning("Roberto's Cybersecurity Tool  -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 -part 2")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
     st.success("Roberto's Cybersecurity Tool -> Information filtering with RegEx")  # 1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
-    st.success("Roberto's Cybersecurity Tool  -> Information filtering with AI")  # 1_2_2_filtrado_informacion_IA->52
-    st.success("Roberto's Cybersecurity Tool -> NinjaDork and Selenium Automation")  # 1_3_automatizacion_selenium -> 52
-    st.success("Roberto's Cybersecurity Tool -> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
+    st.info("Roberto's Cybersecurity Tool  -> Information filtering with AI")  # 1_2_2_filtrado_informacion_IA->52
+    st.error("Roberto's Cybersecurity Tool -> NinjaDork and Selenium Automation")  # 1_3_automatizacion_selenium -> 52
+    st.warning("Roberto's Cybersecurity Tool -> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
     
-    st.success("Roberto's Cyber Tool -> Shodan with Python - Authentication and Login Automation")  #  2_1_1_shodan_python ->59
-    st.success("Roberto's Cyber Tool -> Authentication and Login Automation")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
-    st.success("Roberto's Cyber Tool -> Selenium: Authentication and Login Automation ")  # 2_1_3_auth_login_selenium -> 61
-    st.success("Roberto's Cyber Tool -> Multithreading with Python ")  # 2_1_4_multithreading_python -> 63
-    st.success("Roberto's Cyber Tool -> Waybackmachine")  # 2_2_waybackmachine
-    st.success("Roberto's Cyber Tool -> Dns Enumeration")  # 2_3_dns_enumeration
-    st.success("Roberto's Cyber Tool -> Whois Enumeration")  # 2_4_whois_enumeration
-    st.success("Roberto's Cyber Tool -> Ip Geolocation")  # 2_5_ip_geolocation
-    st.info("Roberto's Cyber Tool -> Phone Geolocation")  # 2_6_phone_geolocation
-    st.error("Roberto's Cyber Tool -> Metadata Analyzer")  # 2_7_metadata_analyzer
+    st.success("Roberto's Cybersecurity Tool -> Shodan with Python - Authentication and Login Automation")  #  2_1_1_shodan_python ->59
+    st.info("Roberto's Cybersecurity Tool -> Authentication and Login Automation")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
+    st.error("Roberto's Cybersecurity Tool -> Selenium: Authentication and Login Automation ")  # 2_1_3_auth_login_selenium -> 61
+    st.warning("Roberto's Cybersecurity Tool -> Multithreading with Python ")  # 2_1_4_multithreading_python -> 63
+    st.success("Roberto's Cybersecurity Tool -> Waybackmachine")  # 2_2_waybackmachine
+    st.info("Roberto's Cybersecurity Tool -> Dns Enumeration")  # 2_3_dns_enumeration
+    st.error("Roberto's Cybersecurity Tool -> Whois Enumeration")  # 2_4_whois_enumeration
+    st.warning("Roberto's Cybersecurity Tool -> Ip Geolocation")  # 2_5_ip_geolocation
+    st.info("Roberto's Cybersecurity Tool -> Phone Geolocation")  # 2_6_phone_geolocation
+    st.error("Roberto's Cybersecurity Tool -> Metadata Analyzer")  # 2_7_metadata_analyzer
     
-    st.success("CYBERSECURITY TOOL -> Sniffer Tshark")  # 3_1_sniffer_tshark
-    st.warning("CYBERSECURITY TOOL -> Sniffer Scapy")  # 3_2_sniffer_scapy
-    st.info("CYBERSECURITY TOOL ->  Sockets")  # 3_3_sockets
-    st.error("CYBERSECURITY TOOL -> Scan of Hosts Sockets")  # 3_4_1_escaneo_hosts_sockets
-    st.success("CYBERSECURITY TOOL -> Scan of Hosts Scapy")  # 3_4_2_escaneo_hosts_scapy
-    st.warning("CYBERSECURITY TOOL -> Scan ARP")  # 3_4_3_escaneo_arp
-    st.info("CYBERSECURITY TOOL ->  Scan of ports")  # 3_4_4_escaneo_puerto
-    st.error("CYBERSECURITY TOOL ->  Scan of Services")  #  3_4_5_escaneo_servicios
-    st.success("CYBERSECURITY TOOL -> Discovery of Resources Network")  # 3_4_6_descubrimiento_recursos_red
-    st.error("CYBERSECURITY TOOL ->  Scanner NMAP with Python")  #  3_5_nmap_scanner_python, que seria 3_4_5
-    st.success("CYBERSECURITY TOOL -> AI Prioritization Scanning")  # 3_6_escaneo_priorizacion_IA, que seria 3_4_6
+    st.success("Roberto's Cybersecurity Tool -> Sniffer Tshark")  # 3_1_sniffer_tshark
+    st.warning("Roberto's Cybersecurity Tool -> Sniffer Scapy")  # 3_2_sniffer_scapy
+    st.info("Roberto's Cybersecurity Tool ->  Sockets")  # 3_3_sockets
+    st.error("Roberto's Cybersecurity Tool -> Scan of Hosts Sockets")  # 3_4_1_escaneo_hosts_sockets
+    st.warning("Roberto's Cybersecurity Tool -> Scan of Hosts Scapy")  # 3_4_2_escaneo_hosts_scapy
+    st.warning("Roberto's Cybersecurity Tool -> Scan ARP")  # 3_4_3_escaneo_arp
+    st.info("Roberto's Cybersecurity Tool ->  Scan of ports")  # 3_4_4_escaneo_puerto
+    st.error("Roberto's Cybersecurity Tool ->  Scan of Services")  #  3_4_5_escaneo_servicios
+    st.success("Roberto's Cybersecurity Tool -> Discovery of Resources Network")  # 3_4_6_descubrimiento_recursos_red
+    st.error("Roberto's Cybersecurity Tool ->  Scanner NMAP with Python")  #  3_5_nmap_scanner_python, que seria 3_4_5
+    st.success("Roberto's Cybersecurity Tool -> AI Prioritization Scanning")  # 3_6_escaneo_priorizacion_IA, que seria 3_4_6
 
-    st.warning("CYBERSECURITY TOOL -> Beautiful Soup")  # 4_1_beautiful_soup
-    st.info("CYBERSECURITY TOOL -> Scanner of CVE Vulnerabilities")  # 4_2_1_escaner_vulnerabilidades_CVEs
-    st.error("CYBERSECURITY TOOL -> Scanner of CVSS Vulnerabilities")  # 4_2_2_escaner_vulnerabilidades_CVSS
-    st.success("CYBERSECURITY TOOL -> Scanner Vulnerabilities: results")  # 4_2_3_escaner_vulnerabilidades_resultados
-    st.warning("CYBERSECURITY TOOL -> Nessus: session creation")  # 4_3_1_escaner_Nessus_creacion_sesion
-    st.info("CYBERSECURITY TOOL -> Nessus: scannner creation")  # 4_3_2_escaner_Nessus_creacion_escaneo
-    st.error("CYBERSECURITY TOOL -> Nessus: Scan results")  # 4_3_3_escaner_Nessus_resultado
+    st.warning("Roberto's Cybersecurity Tool -> Beautiful Soup")  # 4_1_beautiful_soup
+    st.info("Roberto's Cybersecurity Tool -> Scanner of CVE Vulnerabilities")  # 4_2_1_escaner_vulnerabilidades_CVEs
+    st.error("Roberto's Cybersecurity Tool -> Scanner of CVSS Vulnerabilities")  # 4_2_2_escaner_vulnerabilidades_CVSS
+    st.success("Roberto's Cybersecurity Tool -> Scanner Vulnerabilities: results")  # 4_2_3_escaner_vulnerabilidades_resultados
+    st.warning("Roberto's Cybersecurity Tool -> Nessus: session creation")  # 4_3_1_escaner_Nessus_creacion_sesion
+    st.info("Roberto's Cybersecurity Tool -> Nessus: scannner creation")  # 4_3_2_escaner_Nessus_creacion_escaneo
+    st.error("Roberto's Cybersecurity Tool -> Nessus: Scan results")  # 4_3_3_escaner_Nessus_resultado
 
-    st.success("CYBERSECURITY TOOL -> Exploit Proftpd") # 5_1_exploit_proftpd
-    st.warning("CYBERSECURITY TOOL -> Exploit Unrealircd")  # 5_2_exploit_unrealircd
-    st.info("CYBERSECURITY TOOL -> Tcp Reverse Shell")   # 5_3_tcp_reverse_shell
-    st.error("CYBERSECURITY TOOL -> Http Reverse Shell")  #  5_4_1_http_reverse_shell
-    st.success("CYBERSECURITY TOOL -> One Liner AI")  # 5_4_2_one_liner_IA
-    st.warning("CYBERSECURITY TOOL -> Https Reverse Shell")  # 5_5_https_reverse_shell
-    st.info("CYBERSECURITY TOOL ->  Metasploit Exploit modules")  # 5_6_1_pymetasploit_modulos_exploits
-    st.error("CYBERSECURITY TOOL -> Pymetasploit Execution Exploits")  # 5_6_2_pymetasploit_ejecucion_exploits
-    st.success("CYBERSECURITY TOOL -> Pymetasploit Sessions Handling")  # 5_6_3_pymetasploit_manejo_sesiones
-    st.warning("CYBERSECURITY TOOL -> Keylogger")  # 5_7_keylogger
+    st.success("Roberto's Cybersecurity Tool -> Exploit Proftpd") # 5_1_exploit_proftpd
+    st.warning("Roberto's Cybersecurity Tool -> Exploit Unrealircd")  # 5_2_exploit_unrealircd
+    st.info("Roberto's Cybersecurity Tool -> Tcp Reverse Shell")   # 5_3_tcp_reverse_shell
+    st.error("Roberto's Cybersecurity Tool -> Http Reverse Shell")  #  5_4_1_http_reverse_shell
+    st.success("Roberto's Cybersecurity Tool -> One Liner AI")  # 5_4_2_one_liner_IA
+    st.warning("Roberto's Cybersecurity Tool -> Https Reverse Shell")  # 5_5_https_reverse_shell
+    st.info("Roberto's Cybersecurity Tool -> Metasploit Exploit modules")  # 5_6_1_pymetasploit_modulos_exploits
+    st.error("Roberto's Cybersecurity Tool -> Pymetasploit Execution Exploits")  # 5_6_2_pymetasploit_ejecucion_exploits
+    st.success("Roberto's Cybersecurity Tool -> Pymetasploit Sessions Handling")  # 5_6_3_pymetasploit_manejo_sesiones
+    st.warning("Roberto's Cybersecurity Tool -> Keylogger")  # 5_7_keylogger
 
-    st.info("CYBERSECURITY TOOL -> ARP Spoofing")  # 6_1_arp_spoofing
-    st.error("CYBERSECURITY TOOL -> Netfilterqueue Interceptation")  # 6_2_1_netfilterqueue_interceptacion
-    st.success("CYBERSECURITY TOOL ->  Netfilterqueue Modification")  # 6_2_2_netfilterqueue_modificacion
-    st.warning("CYBERSECURITY TOOL -> Http Interceptor")  # 6_3_http_interceptor
-    st.info("CYBERSECURITY TOOL -> DNS Spooging")  # 6_4_dns_spoofing
-    st.error("CYBERSECURITY TOOL -> ARP Spooging Detector")  # 6_5_arp_spoofing_detector
-    st.success("CYBERSECURITY TOOL -> SSH BRUTE FORCE")  # 6_6_ssh_brute_force
-    st.warning("CYBERSECURITY TOOL -> DHCP Listener")  # 6_7_dhcp_listener
-    st.info("CYBERSECURITY TOOL -> MAC Spoofing")  # 6_8_mac_spoofing
+    st.info("Roberto's Cybersecurity Tool -> ARP Spoofing")  # 6_1_arp_spoofing
+    st.error("Roberto's Cybersecurity Tool -> Netfilterqueue Interceptation")  # 6_2_1_netfilterqueue_interceptacion
+    st.success("Roberto's Cybersecurity Tool ->  Netfilterqueue Modification")  # 6_2_2_netfilterqueue_modificacion
+    st.warning("Roberto's Cybersecurity Tool -> Http Interceptor")  # 6_3_http_interceptor
+    st.info("Roberto's Cybersecurity Tool -> DNS Spooging")  # 6_4_dns_spoofing
+    st.error("Roberto's Cybersecurity Tool -> ARP Spooging Detector")  # 6_5_arp_spoofing_detector
+    st.success("Roberto's Cybersecurity Tool -> SSH BRUTE FORCE")  # 6_6_ssh_brute_force
+    st.warning("Roberto's Cybersecurity Tool -> DHCP Listener")  # 6_7_dhcp_listener
+    st.info("Roberto's Cybersecurity Tool -> MAC Spoofing")  # 6_8_mac_spoofing
   
-    st.error("CYBERSECURITY TOOL -> Spidering")  # 7_1_spidering
-    st.success("CYBERSECURITY TOOL -> ZAP Analyzer.")  # 7_2_1_zap_analyzer
-    st.warning("CYBERSECURITY TOOL -> ZAP Passive Analysis")  # 7_2_2_zap_analisis_pasivo
-    st.warning("CYBERSECURITY TOOL -> ZAP Active Analysis")  # 7_2_3_zap_analisis_activo
-    st.info("CYBERSECURITY TOOL -> Autenticacion Python") # 7_3_autenticacion_python
-    st.error("CYBERSECURITY TOOL -> XSS Scanner")  # 7_4_xss_scanner
-    st.success("CYBERSECURITY TOOL -> SQLi Scanner")  # 7_5_sqli_scanner
-    st.warning("CYBERSECURITY TOOL -> Subdomain Scanner")   # 7_6_subdomain_scanner
-    st.info("CYBERSECURITY TOOL -> Web Content Discorery") # 7_7_web_content_discovery
-    st.error("CYBERSECURITY TOOL -> Brute Force Web")  # 7_8_brute_force_web
-    st.success("CYBERSECURITY TOOL -> BURP Suite Python")  # 7_9_burp_suite_python
+    st.error("Roberto's Cybersecurity Tool -> Spidering")  # 7_1_spidering
+    st.success("Roberto's Cybersecurity Tool -> ZAP Analyzer.")  # 7_2_1_zap_analyzer
+    st.warning("Roberto's Cybersecurity Tool -> ZAP Passive Analysis")  # 7_2_2_zap_analisis_pasivo
+    st.warning("Roberto's Cybersecurity Tool -> ZAP Active Analysis")  # 7_2_3_zap_analisis_activo
+    st.info("Roberto's Cybersecurity Tool -> Autenticacion Python") # 7_3_autenticacion_python
+    st.error("Roberto's Cybersecurity Tool -> XSS Scanner")  # 7_4_xss_scanner
+    st.success("Roberto's Cybersecurity Tool -> SQLi Scanner")  # 7_5_sqli_scanner
+    st.warning("Roberto's Cybersecurity Tool -> Subdomain Scanner")   # 7_6_subdomain_scanner
+    st.info("Roberto's Cybersecurity Tool -> Web Content Discorery") # 7_7_web_content_discovery
+    st.error("Roberto's Cybersecurity Tool -> Brute Force Web")  # 7_8_brute_force_web
+    st.success("Roberto's Cybersecurity Tool -> BURP Suite Python")  # 7_9_burp_suite_python
 
-    st.warning("CYBERSECURITY TOOL -> Cracking Passwords")  # 8_1_cracking_passwords
-    st.info("CYBERSECURITY TOOL -> Cracking ZIP")  # 8_2_cracking_zip
-    st.error("CYBERSECURITY TOOL -> Chrome Password Decrypto")  # 8_3_chrome_password_decryptor
-    st.success("CYBERSECURITY TOOL -> WIFI Password Collector")  # 8_4_wifi_password_collector
-    st.warning("CYBERSECURITY TOOL -> Windows Service")  # 8_5_1_windows_service
-    st.info("CYBERSECURITY TOOL -> Windows Service ..nore")  # 8_5_2_windows_service
-    st.error("CYBERSECURITY TOOL -> Evasion Defenses")  # 8_6_evasion_defensas
-    st.success("CYBERSECURITY TOOL -> Exfiltration Steganography")  # 8_7_exfiltracion_esteganografia
+    st.warning("Roberto's Cybersecurity Tool -> Cracking Passwords")  # 8_1_cracking_passwords
+    st.info("Roberto's Cybersecurity Tool -> Cracking ZIP")  # 8_2_cracking_zip
+    st.error("Roberto's Cybersecurity Tool -> Chrome Password Decrypto")  # 8_3_chrome_password_decryptor
+    st.success("Roberto's Cybersecurity Tool -> WIFI Password Collector")  # 8_4_wifi_password_collector
+    st.warning("Roberto's Cybersecurity Tool -> Windows Service")  # 8_5_1_windows_service
+    st.info("Roberto's Cybersecurity Tool -> Windows Service ..nore")  # 8_5_2_windows_service
+    st.error("Roberto's Cybersecurity Tool -> Evasion Defenses")  # 8_6_evasion_defensas
+    st.success("Roberto's Cybersecurity Tool -> Exfiltration Steganography")  # 8_7_exfiltracion_esteganografia
 with col2:
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py")
     st.write('')
