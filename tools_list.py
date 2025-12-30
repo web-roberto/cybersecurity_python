@@ -15,15 +15,11 @@ col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=Tr
 
 with col1:
     st.markdown(
-    """
-    <a href="https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py" target="_blank">
+    """<a href="https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py" target="_blank">
         <button style="background-color:#2ecc71;color:white;padding:0.5em 1em;margin:0.5em;border:none;border-radius:8px;margin-right: auto;cursor:pointer;">
             Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines
         </button>
-    </a>
-    """,
-    unsafe_allow_html=True
-)
+    </a>""",unsafe_allow_html=True)
     # st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
     # st.link_button("Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines","https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py")
     st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
