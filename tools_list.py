@@ -12,7 +12,7 @@ st.toast("Loading...")
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
 
 with col1:
-    st.success("Roberto's Cyber Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
+    st.success("Roberto's CYBER TOOL -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
     st.success("Roberto's Cyber Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
     st.success("Roberto's Cyber Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
     st.success("Roberto's Cyber Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
