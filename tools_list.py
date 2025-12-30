@@ -17,7 +17,7 @@ with col1:
     st.success("Roberto's Cyber Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
     st.success("Roberto's Cyber Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
     st.success("Roberto's Cyber Tool -> Google Hacking -> File Handling")  # 1_1_6_manejo_ficheros -> 43
-    st.success("Roberto's Cyber Tool -> Google Hacking -> Dorks with AI GPT4ALL.")  # 1_1_7_dorks_ia_GPT4All -> 47
+    st.success("Roberto's Cyber Tool -> Google Hacking -> Dorks with AI GPT4ALL")  # 1_1_7_dorks_ia_GPT4All -> 47
     st.success("Roberto's Cyber Tool -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
     st.success("Roberto's Cyber Tool  -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 -part 2")  # 1_1_9_dorks_ia_OpenAI_GPT4_Parte2 ->48
     st.success("Roberto's Cyber Tool -> Information filtering with RegEx")  # 1_2_1_filtrado_informacion_regex -> smartsearch.pyv- video 49
@@ -26,7 +26,7 @@ with col1:
     st.success("Roberto's Cyber Tool -> Hacking with Search Engines and Selenium")  # 1_4_hacking_buscadores_selenium -> 54
     
     st.success("Roberto's Cyber Tool -> Shodan with Python - Authentication and Login Automation")  #  2_1_1_shodan_python ->59
-    st.success("Roberto's Cyber Tool -> Authentication and Login Automation ")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
+    st.success("Roberto's Cyber Tool -> Authentication and Login Automation")  # 2_1_2_auth_login_automatizado -> 60 (código en doc y en github)
     st.success("Roberto's Cyber Tool -> Selenium: Authentication and Login Automation ")  # 2_1_3_auth_login_selenium -> 61
     st.success("Roberto's Cyber Tool -> Multithreading with Python ")  # 2_1_4_multithreading_python -> 63
     st.success("Roberto's Cyber Tool -> Waybackmachine")  # 2_2_waybackmachine
@@ -37,48 +37,48 @@ with col1:
     st.error("Roberto's Cyber Tool -> Metadata Analyzer")  # 2_7_metadata_analyzer
     
     st.success("CYBERSECURITY TOOL -> Sniffer Tshark")  # 3_1_sniffer_tshark
-    st.warning("CYBERSECURITY TOOL -> ........")  # 3_2_sniffer_scapy
-    st.info("CYBERSECURITY TOOL ->  ........")  # 3_3_sockets
-    st.error("CYBERSECURITY TOOL ->  ........")  # 3_4_1_escaneo_hosts_sockets
-    st.success("CYBERSECURITY TOOL ->  ........")  # 3_4_2_escaneo_hosts_scapy
-    st.warning("CYBERSECURITY TOOL ->  ........")  # 3_4_3_escaneo_arp
-    st.info("CYBERSECURITY TOOL ->  ........")  # 3_4_4_escaneo_puerto
-    st.error("CYBERSECURITY TOOL ->  ........")  #  3_4_5_escaneo_servicios
-    st.success("CYBERSECURITY TOOL ->  ........")  # 3_4_6_descubrimiento_recursos_red
-    st.error("CYBERSECURITY TOOL ->  ........")  #  3_5_nmap_scanner_python, que seria 3_4_5
-    st.success("CYBERSECURITY TOOL ->  ........")  # 3_6_escaneo_priorizacion_IA, que seria 3_4_6
+    st.warning("CYBERSECURITY TOOL -> Sniffer Scapy")  # 3_2_sniffer_scapy
+    st.info("CYBERSECURITY TOOL ->  Sockets")  # 3_3_sockets
+    st.error("CYBERSECURITY TOOL -> Scan of Hosts Sockets")  # 3_4_1_escaneo_hosts_sockets
+    st.success("CYBERSECURITY TOOL -> Scan of Hosts Scapy")  # 3_4_2_escaneo_hosts_scapy
+    st.warning("CYBERSECURITY TOOL -> Scan ARP")  # 3_4_3_escaneo_arp
+    st.info("CYBERSECURITY TOOL ->  Scan of ports")  # 3_4_4_escaneo_puerto
+    st.error("CYBERSECURITY TOOL ->  Scan of Services")  #  3_4_5_escaneo_servicios
+    st.success("CYBERSECURITY TOOL -> Discovery of Resources Network")  # 3_4_6_descubrimiento_recursos_red
+    st.error("CYBERSECURITY TOOL ->  Scanner NMAP with Python")  #  3_5_nmap_scanner_python, que seria 3_4_5
+    st.success("CYBERSECURITY TOOL -> AI Prioritization Scanning")  # 3_6_escaneo_priorizacion_IA, que seria 3_4_6
 
-    st.warning("CYBERSECURITY TOOL ->  ........")  # 4_1_beautiful_soup
-    st.info("CYBERSECURITY TOOL ->  ........")  # 4_2_1_escaner_vulnerabilidades_CVEs
-    st.error("CYBERSECURITY TOOL ->  ........")  # 4_2_2_escaner_vulnerabilidades_CVSS
-    st.success("CYBERSECURITY TOOL ->  ........")  # 4_2_3_escaner_vulnerabilidades_resultados
-    st.warning("CYBERSECURITY TOOL ->  ........")  # 4_3_1_escaner_Nessus_creacion_sesion
-    st.info("CYBERSECURITY TOOL ->  ........")  # 4_3_2_escaner_Nessus_creacion_escaneo
-    st.error("CYBERSECURITY TOOL ->  ........")  # 4_3_3_escaner_Nessus_resultado
+    st.warning("CYBERSECURITY TOOL -> Beautiful Soup")  # 4_1_beautiful_soup
+    st.info("CYBERSECURITY TOOL -> Scanner of CVE Vulnerabilities")  # 4_2_1_escaner_vulnerabilidades_CVEs
+    st.error("CYBERSECURITY TOOL -> Scanner of CVSS Vulnerabilities")  # 4_2_2_escaner_vulnerabilidades_CVSS
+    st.success("CYBERSECURITY TOOL -> Scanner Vulnerabilities: results")  # 4_2_3_escaner_vulnerabilidades_resultados
+    st.warning("CYBERSECURITY TOOL -> Nessus: session creation")  # 4_3_1_escaner_Nessus_creacion_sesion
+    st.info("CYBERSECURITY TOOL -> Nessus: scannner creation")  # 4_3_2_escaner_Nessus_creacion_escaneo
+    st.error("CYBERSECURITY TOOL -> Nessus: Scan results")  # 4_3_3_escaner_Nessus_resultado
 
-    st.success("CYBERSECURITY TOOL ->  ........") # 5_1_exploit_proftpd
-    st.warning("CYBERSECURITY TOOL ->  ........")  # 5_2_exploit_unrealircd
-    st.info("CYBERSECURITY TOOL -> ........")   # 5_3_tcp_reverse_shell
-    st.error("CYBERSECURITY TOOL ->  ........")  #  5_4_1_http_reverse_shell
-    st.success("CYBERSECURITY TOOL ->  ........")  # 5_4_2_one_liner_IA
-    st.warning("CYBERSECURITY TOOL ->  ........")  # 5_5_https_reverse_shell
-    st.info("CYBERSECURITY TOOL ->  ........")  # 5_6_1_pymetasploit_modulos_exploits
-    st.error("CYBERSECURITY TOOL ->  ........")  # 5_6_2_pymetasploit_ejecucion_exploits
-    st.success("CYBERSECURITY TOOL ->  ........")  # 5_6_3_pymetasploit_manejo_sesiones
-    st.warning("CYBERSECURITY TOOL ->  ........")  # 5_7_keylogger
+    st.success("CYBERSECURITY TOOL -> Exploit Proftpd") # 5_1_exploit_proftpd
+    st.warning("CYBERSECURITY TOOL -> Exploit Unrealircd")  # 5_2_exploit_unrealircd
+    st.info("CYBERSECURITY TOOL -> Tcp Reverse Shell")   # 5_3_tcp_reverse_shell
+    st.error("CYBERSECURITY TOOL -> Http Reverse Shell")  #  5_4_1_http_reverse_shell
+    st.success("CYBERSECURITY TOOL -> One Liner AI")  # 5_4_2_one_liner_IA
+    st.warning("CYBERSECURITY TOOL -> Https Reverse Shell")  # 5_5_https_reverse_shell
+    st.info("CYBERSECURITY TOOL ->  Metasploit Exploit modules")  # 5_6_1_pymetasploit_modulos_exploits
+    st.error("CYBERSECURITY TOOL -> Pymetasploit Execution Exploits")  # 5_6_2_pymetasploit_ejecucion_exploits
+    st.success("CYBERSECURITY TOOL -> Pymetasploit Sessions Handling")  # 5_6_3_pymetasploit_manejo_sesiones
+    st.warning("CYBERSECURITY TOOL -> Keylogger")  # 5_7_keylogger
 
-    st.info("CYBERSECURITY TOOL ->6_1_ ...")  # 6_1_arp_spoofing
-    st.error("CYBERSECURITY TOOL -> 6_2_1_...")  # 6_2_1_netfilterqueue_interceptacion
-    st.success("CYBERSECURITY TOOL -> 6_2_2_...")  # 6_2_2_netfilterqueue_modificacion
-    st.warning("CYBERSECURITY TOOL -> 6_3...")  # 6_3_http_interceptor
-    st.info("CYBERSECURITY TOOL -> 6_4...")  # 6_4_dns_spoofing
-    st.error("CYBERSECURITY TOOL -> 6_5...")  # 6_5_arp_spoofing_detector
-    st.success("CYBERSECURITY TOOL -> 6_6...")  # 6_6_ssh_brute_force
-    st.warning("CYBERSECURITY TOOL -> 6_7...")  # 6_7_dhcp_listener
-    st.info("CYBERSECURITY TOOL -> 6_8...")  # 6_8_mac_spoofing
+    st.info("CYBERSECURITY TOOL -> ARP Spoofing")  # 6_1_arp_spoofing
+    st.error("CYBERSECURITY TOOL -> Netfilterqueue Interceptation")  # 6_2_1_netfilterqueue_interceptacion
+    st.success("CYBERSECURITY TOOL ->  Netfilterqueue Modification")  # 6_2_2_netfilterqueue_modificacion
+    st.warning("CYBERSECURITY TOOL -> Http Interceptor")  # 6_3_http_interceptor
+    st.info("CYBERSECURITY TOOL -> DNS Spooging")  # 6_4_dns_spoofing
+    st.error("CYBERSECURITY TOOL -> ARP Spooging Detector")  # 6_5_arp_spoofing_detector
+    st.success("CYBERSECURITY TOOL -> SSH BRUTE FORCE")  # 6_6_ssh_brute_force
+    st.warning("CYBERSECURITY TOOL -> DHCP Listener")  # 6_7_dhcp_listener
+    st.info("CYBERSECURITY TOOL -> MAC Spoofing")  # 6_8_mac_spoofing
   
-    st.error("CYBERSECURITY TOOL -> 7_1_...")  # 7_1_spidering
-    st.success("CYBERSECURITY TOOL -> 7_2_1_...")  # 7_2_1_zap_analyzer
+    st.error("CYBERSECURITY TOOL -> Spidering")  # 7_1_spidering
+    st.success("CYBERSECURITY TOOL -> ZAP Analyzer.")  # 7_2_1_zap_analyzer
     st.warning("CYBERSECURITY TOOL -> 7_2_2...")  # 7_2_2_zap_analisis_pasivo
     st.warning("CYBERSECURITY TOOL -> 7_2_3...")  # 7_2_3_zap_analisis_activo
     st.info("CYBERSECURITY TOOL -> 7_3...") # 7_3_autenticacion_python
