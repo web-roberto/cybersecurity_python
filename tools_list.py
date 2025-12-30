@@ -24,6 +24,7 @@ with col1:
             margin:0.5em;
             border:none;
             border-radius:8px;
+            margin-right: auto;
             cursor:pointer;
         ">
             Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines
