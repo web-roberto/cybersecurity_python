@@ -79,25 +79,24 @@ with col1:
   
     st.error("CYBERSECURITY TOOL -> Spidering")  # 7_1_spidering
     st.success("CYBERSECURITY TOOL -> ZAP Analyzer.")  # 7_2_1_zap_analyzer
-    st.warning("CYBERSECURITY TOOL -> 7_2_2...")  # 7_2_2_zap_analisis_pasivo
-    st.warning("CYBERSECURITY TOOL -> 7_2_3...")  # 7_2_3_zap_analisis_activo
-    st.info("CYBERSECURITY TOOL -> 7_3...") # 7_3_autenticacion_python
-    st.error("CYBERSECURITY TOOL ->7_4...")  # 7_4_xss_scanner
-    st.success("CYBERSECURITY TOOL -> 7_5...")  # 7_5_sqli_scanner
-    st.warning("CYBERSECURITY TOOL -> 7_6...")   # 7_6_subdomain_scanner
-    st.info("CYBERSECURITY TOOL -> 7_7...") # 7_7_web_content_discovery
-    st.error("CYBERSECURITY TOOL ->7_8 ...")  # 7_8_brute_force_web
-    st.success("CYBERSECURITY TOOL -> 7_9...")  # 7_9_burp_suite_python
+    st.warning("CYBERSECURITY TOOL -> ZAP Passive Analysis")  # 7_2_2_zap_analisis_pasivo
+    st.warning("CYBERSECURITY TOOL -> ZAP Active Analysis")  # 7_2_3_zap_analisis_activo
+    st.info("CYBERSECURITY TOOL -> Autenticacion Python") # 7_3_autenticacion_python
+    st.error("CYBERSECURITY TOOL -> XSS Scanner")  # 7_4_xss_scanner
+    st.success("CYBERSECURITY TOOL -> SQLi Scanner")  # 7_5_sqli_scanner
+    st.warning("CYBERSECURITY TOOL -> Subdomain Scanner")   # 7_6_subdomain_scanner
+    st.info("CYBERSECURITY TOOL -> Web Content Discorery") # 7_7_web_content_discovery
+    st.error("CYBERSECURITY TOOL -> Brute Force Web")  # 7_8_brute_force_web
+    st.success("CYBERSECURITY TOOL -> BURP Suite Python")  # 7_9_burp_suite_python
 
-    st.warning("CYBERSECURITY TOOL -> 8_1...")  # 8_1_cracking_passwords
-    st.info("CYBERSECURITY TOOL -> 8_2...")  # 8_2_cracking_zip
-    st.error("CYBERSECURITY TOOL -> 8_3...")  # 8_3_chrome_password_decryptor
-    st.success("CYBERSECURITY TOOL -> 8_4...")  # 8_4_wifi_password_collector
-    st.warning("CYBERSECURITY TOOL -> 8_5_1...")  # 8_5_1_windows_service
-    st.info("CYBERSECURITY TOOL -> 8_5_2...")  # 8_5_2_windows_service
-    st.error("CYBERSECURITY TOOL -> 8_6...")  # 8_6_evasion_defensas
-    st.success("CYBERSECURITY TOOL -> 8_7...")  # 8_7_exfiltracion_esteganografia
-   
+    st.warning("CYBERSECURITY TOOL -> Cracking Passwords")  # 8_1_cracking_passwords
+    st.info("CYBERSECURITY TOOL -> Cracking ZIP")  # 8_2_cracking_zip
+    st.error("CYBERSECURITY TOOL -> Chrome Password Decrypto")  # 8_3_chrome_password_decryptor
+    st.success("CYBERSECURITY TOOL -> WIFI Password Collector")  # 8_4_wifi_password_collector
+    st.warning("CYBERSECURITY TOOL -> Windows Service")  # 8_5_1_windows_service
+    st.info("CYBERSECURITY TOOL -> Windows Service ..nore")  # 8_5_2_windows_service
+    st.error("CYBERSECURITY TOOL -> Evasion Defenses")  # 8_6_evasion_defensas
+    st.success("CYBERSECURITY TOOL -> Exfiltration Steganography")  # 8_7_exfiltracion_esteganografia
 with col2:
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py")
     st.write('')
