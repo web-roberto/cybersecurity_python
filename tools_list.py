@@ -16,6 +16,39 @@ links = [
      {"href": "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_3_ejecucion_scripts_python",
     "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts",
     "fondo": "blue" }, # 1_1_3_ejecucion_scripts_python -> 40
+    {"href": "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_4_argumentos_linea_comandos",
+    "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments",
+    "fondo": "red" }, # 1_1_4_argumentos_linea_comandos -> 41
+    {"href": "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_5_generacion_resultados",
+    "text": "Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results",
+    "fondo": "blueviolet" }, # 1_1_5_generacion_resultados -> 42
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "" }, # 
 ]
 
 col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
@@ -28,8 +61,8 @@ with col1:
                 {link['text']}
             </button></a>""",unsafe_allow_html=True)
     # st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Execution of Python Scripts")  # 1_1_3_ejecucion_scripts_python -> 40
-    st.error("Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
-    st.warning("Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
+    # st.error("Roberto's Cybersecurity Tool -> Google Hacking -> Command Line Arguments")  # 1_1_4_argumentos_linea_comandos -> 41
+    #st.warning("Roberto's Cybersecurity Tool -> Google Hacking -> Generation of Results")  # 1_1_5_generacion_resultados -> 42
     st.success("Roberto's Cybersecurity Tool -> Google Hacking -> File Handling")  # 1_1_6_manejo_ficheros -> 43
     st.info("Roberto's Cybersecurity Tool -> Google Hacking -> Dorks with AI GPT4ALL")  # 1_1_7_dorks_ia_GPT4All -> 47
     st.error("Roberto's Cybersecurity Tool -> Google Hacking with AI -> Dorks with AI from OpenAI GPT4 ")  # 1_1_8_dorks_ia_OpenAI_GPT4_Parte1 -> 47
@@ -116,9 +149,9 @@ with col2:
     #st.write('')
     #st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_3_ejecucion_scripts_python")
     #st.write('')
-    st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_4_argumentos_linea_comandos")
-    st.write('')
-    st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_5_generacion_resultados")
+    #st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_4_argumentos_linea_comandos")
+    #st.write('')
+    #st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_5_generacion_resultados")
     st.write('')
     st.link_button("Code Github", "https://github.com/web-roberto/cybersecurity_python/tree/main/1_1_6_manejo_ficheros")
     st.write('')
