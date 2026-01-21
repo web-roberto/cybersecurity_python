@@ -77,7 +77,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Ethical Hacking...")
+st.subheader("Ethical Hacking...........................................................................")
 st.balloons()
 st.snow()
 st.toast("Loading...")
