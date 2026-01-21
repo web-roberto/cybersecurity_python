@@ -13,52 +13,52 @@ st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "N8N",
+    "text": "Kali Purple, ",
     "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "dcode.fr",
+    "text": "dcode.fr",
     "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://www.base64encode.org/",
+    "text": "https://www.base64encode.org/",
     "fondo": "blue" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://cryptii.com/pipes/rc4-encryption",
+    "text": "https://cryptii.com/pipes/rc4-encryption",
     "fondo": "red" }, # 
-   {"href": "",
-    "text": "N8N",
+   {"href": "https://csf.tools/visualizations/csf-sunburst/",
+    "text": "https://csf.tools/visualizations/csf-sunburst/",
     "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://gchq.github.io/CyberChef/",
+    "text": "https://gchq.github.io/CyberChef/",
     "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://pages.nist.gov/800-63-3/",
+    "text": "https://pages.nist.gov/800-63-3/",
     "fondo": "blue" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
+    "text": "Frequencies Analisys...code in Python",
     "fondo": "red" }, # 
-   {"href": "",
-    "text": "N8N",
+   {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
+    "text": "Vingere: Frequencies Analisys...code in Python"",
     "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/55.ChaCha20.ipynb",
+    "text": "ChaCha20...code in Python",
     "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/67.AES.ipynb",
+    "text": "AES...code in Python",
     "fondo": "blue" }, # 
-    {"href": "",
-    "text": "N8N",
+    {"href": "https://github.com/web-roberto/defensive_cyber_python/tree/main/175.Caso_practico_deteccion_anomalias",
+    "text": "Anomaly Detection...code in Python",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
     "fondo": "red" }, # 
 ]
 for link in links:
