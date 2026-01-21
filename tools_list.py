@@ -69,40 +69,13 @@ links = [
     "fondo": "darkmagenta" }, #    
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/22_Redes%20Neuronales%20Artificiales%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
     "text": "Artificial Neural Networks (ANNs): detection of fraudulent bank transactions",
-    "fondo": "blue" }, #    
-
-     
+    "fondo": "blue" }, #   
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/18_DBSCAN%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "DBSCAN: detection of fraudulent bank transactions",
-    "fondo": "blue" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/19_Naive%20Bayes%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
-    "text": "Naive Bayes: Spam detection",
-    "fondo": "red" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/20_Distribuci%C3%B3n%20Gaussiana%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "Gaussian Distribution: detection of fraudulent bank transactions",
-    "fondo": "yellowgreen" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/21_Isolation%20Forest%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": " Isolation Forest: detection of fraudulent bank transactions",
-    "fondo": "darkmagenta" }, #    
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/22_Redes%20Neuronales%20Artificiales%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "Artificial Neural Networks (ANNs): detection of fraudulent bank transactions",
-    "fondo": "blue" }, #    
-]
-for link in links:
-    st.markdown(f"""<a href="{link['href']}" target="_blank">
-        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
-            {link['text']}
-        </button></a>""",unsafe_allow_html=True) 
-
-
-
-#st.write("https://github.com/shramos/practical-ml-for-cybersecurity")
 st.subheader("ETHICAL HACKING...")
 st.subheader("Click below to SEE THE CODE")
 st.balloons()
