@@ -37,7 +37,7 @@ links = [
     "text": "Frequencies Analisys...code in Python",
     "fondo": "red" }, # 
    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
-    "text": "Vingere: Frequencies Analisys...code in Python"",
+    "text": "Vingere: Frequencies Analisys...code in Python",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/55.ChaCha20.ipynb",
     "text": "ChaCha20...code in Python",
