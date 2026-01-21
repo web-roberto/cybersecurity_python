@@ -5,6 +5,7 @@ st.set_page_config(layout="wide")
 
 st.subheader("Roberto's- Cybersecurity (Python and Artificial Intelligence)")
 st.write("80 Cyber Tools by Roberto")
+st.subheader("Click below to see the Code")
 st.subheader("Cybersecurity Defense")
 st.write("..........")
 st.subheader("Cybersecutiy in ACTIVE DIRECTORY")
@@ -76,8 +77,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("ETHICAL HACKING...")
-st.subheader("Click below to SEE THE CODE")
+st.subheader("Ethical Hacking...")
 st.balloons()
 st.snow()
 st.toast("Loading...")
