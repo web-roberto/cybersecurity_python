@@ -9,16 +9,16 @@ st.subheader("Click below to see the Code")
 st.subheader("Cybersecurity Defense............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
-   {"href": "N8N",
+   {"href": "",
     "text": "N8N",
     "fondo": "yellowgreen" }, # 
-    {"href": "N8N",
+    {"href": "",
     "text": "N8N",
     "fondo": "darkmagenta" }, # 
-    {"href": "N8N",
+    {"href": "",
     "text": "N8N",
     "fondo": "blue" }, # 
-    {"href": "N8N",
+    {"href": "",
     "text": "N8N",
     "fondo": "red" }, # 
 ]
@@ -30,16 +30,16 @@ for link in links:
 st.subheader("Cybersecutiy in ACTIVE DIRECTORY............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
-   {"href": "N8N",
+   {"href": "",
     "text": "N8N",
     "fondo": "yellowgreen" }, # 
-    {"href": "N8N",
+    {"href": "",
     "text": "N8N",
     "fondo": "darkmagenta" }, # 
-    {"href": "N8N",
+    {"href": "",
     "text": "N8N",
     "fondo": "blue" }, # 
-    {"href": "N8N",
+    {"href": "",
     "text": "N8N",
     "fondo": "red" }, # 
 ]
