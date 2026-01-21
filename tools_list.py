@@ -27,7 +27,7 @@ links = [
     "text": "Division of the data set",
     "fondo": "red" }, # 
      {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/8_Preparaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
-    "text":  Preparing the data set",
+    "text":  "Preparing the data set",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/9_Creaci%C3%B3n%20de%20Transformadores%20y%20Pipelines%20personalizados.ipynb",
     "text": " Creation of custom transformers and pipelines",
@@ -56,7 +56,7 @@ links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/17_KMEANS%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
     "text": "KMEANS: detection of fraudulent bank transactions",
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/18_DBSCAN%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": ""DBSCAN: detection of fraudulent bank transactions",
+    "text": "DBSCAN: detection of fraudulent bank transactions",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/19_Naive%20Bayes%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
     "text": "Naive Bayes: Spam detection",
