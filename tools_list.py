@@ -4,9 +4,69 @@ import streamlit as st
 st.set_page_config(layout="wide")
 
 st.subheader("Roberto's- Cybersecurity (Python and Artificial Intelligence)")
-st.write("80 Cyber Tools by Roberto")
+st.balloons()
+st.snow()
+st.toast("Loading...")
+st.write("80 Cyber Tools by Roberto in Python")
 st.subheader("Click below to see the Code")
-st.subheader("Cybersecurity Defense............................")
+st.subheader("Tools for Defensive Cybersecurity............................")
+#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
+links = [
+   {"href": "",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "red" }, # 
+   {"href": "",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "red" }, # 
+   {"href": "",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "red" }, # 
+]
+for link in links:
+    st.markdown(f"""<a href="{link['href']}" target="_blank">
+        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
+            {link['text']}
+        </button></a>""",unsafe_allow_html=True) 
+st.subheader("Tools for Cybersecutiy in ACTIVE DIRECTORY............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
@@ -27,29 +87,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Cybersecutiy in ACTIVE DIRECTORY............................")
-#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
-links = [
-   {"href": "",
-    "text": "N8N",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "N8N",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "N8N",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "N8N",
-    "fondo": "red" }, # 
-]
-for link in links:
-    st.markdown(f"""<a href="{link['href']}" target="_blank">
-        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
-            {link['text']}
-        </button></a>""",unsafe_allow_html=True) 
-
-st.subheader("Cybersecurity with AI............................")
+st.subheader("Cybersecurity with AI in Python............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
@@ -115,10 +153,28 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Ethical Hacking............................")
-st.balloons()
-st.snow()
-st.toast("Loading...")
+st.subheader("Tools for Ethical Hacking............................")
+#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
+links = [
+   {"href": "",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "N8N",
+    "fondo": "red" }, # 
+]
+for link in links:
+    st.markdown(f"""<a href="{link['href']}" target="_blank">
+        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
+            {link['text']}
+        </button></a>""",unsafe_allow_html=True) 
+st.subheader("Ethical Hacking in Python............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
     {"href": "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py",
