@@ -54,6 +54,7 @@ links = [
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/17_KMEANS%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
     "text": "KMEANS: detection of fraudulent bank transactions",
+    "fondo": "blue" }, #
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/18_DBSCAN%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
     "text": "DBSCAN: detection of fraudulent bank transactions",
     "fondo": "blue" }, # 
