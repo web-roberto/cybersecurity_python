@@ -7,7 +7,48 @@ st.subheader("Roberto's- Cybersecurity (Python and Artificial Intelligence)")
 st.write("80 Cyber Tools by Roberto")
 st.subheader("Click below to see the Code")
 st.subheader("Cybersecurity Defense............................")
+#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
+links = [
+   {"href": "N8N",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "N8N",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "N8N",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "N8N",
+    "text": "N8N",
+    "fondo": "red" }, # 
+]
+for link in links:
+    st.markdown(f"""<a href="{link['href']}" target="_blank">
+        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
+            {link['text']}
+        </button></a>""",unsafe_allow_html=True) 
 st.subheader("Cybersecutiy in ACTIVE DIRECTORY............................")
+#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
+links = [
+   {"href": "N8N",
+    "text": "N8N",
+    "fondo": "yellowgreen" }, # 
+    {"href": "N8N",
+    "text": "N8N",
+    "fondo": "darkmagenta" }, # 
+    {"href": "N8N",
+    "text": "N8N",
+    "fondo": "blue" }, # 
+    {"href": "N8N",
+    "text": "N8N",
+    "fondo": "red" }, # 
+]
+for link in links:
+    st.markdown(f"""<a href="{link['href']}" target="_blank">
+        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
+            {link['text']}
+        </button></a>""",unsafe_allow_html=True) 
+
 st.subheader("Cybersecurity with AI............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
