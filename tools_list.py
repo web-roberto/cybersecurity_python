@@ -13,8 +13,7 @@ st.subheader("CYBERSECURITY WITH AI")
 #st.write("..........")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
-    ### N8N
-   {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
     "text": " Linear Regression - Predicting the cost of a security incident",
     "fondo": "yellowgreen" }, # 4
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/5_Regresi%C3%B3n%20Log%C3%ADstica%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
@@ -26,7 +25,7 @@ links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/7_Divisi%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
     "text": "Division of the data set",
     "fondo": "red" }, # 
-     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/8_Preparaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/8_Preparaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
     "text":  "Preparing the data set",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/9_Creaci%C3%B3n%20de%20Transformadores%20y%20Pipelines%20personalizados.ipynb",
@@ -44,13 +43,13 @@ links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/13_Random%20Forests%20-%20Detecci%C3%B3n%20de%20Malware%20en%20Android.ipynb",
     "text": " Random Forest - Malware detection on Android",
     "fondo": "darkmagenta" }, # 
-     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/14_T%C3%A9cnicas%20de%20selecci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/14_T%C3%A9cnicas%20de%20selecci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
     "text": "Feature selection: Malware detection on Android",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/15_PCA%20-%20Extracci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
     "text": "  Principal Component Analysis (PCA): Malware detection on Android",
     "fondo": "red" }, # 
-     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/16_T%C3%A9cnicas%20de%20selecci%C3%B3n%20del%20modelo.ipynb",
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/16_T%C3%A9cnicas%20de%20selecci%C3%B3n%20del%20modelo.ipynb",
     "text": " Model selection: Malware detection on Android ",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/17_KMEANS%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
@@ -61,7 +60,7 @@ links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/19_Naive%20Bayes%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
     "text": "Naive Bayes: Spam detection",
     "fondo": "red" }, # 
-     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/20_Distribuci%C3%B3n%20Gaussiana%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/20_Distribuci%C3%B3n%20Gaussiana%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
     "text": "Gaussian Distribution: detection of fraudulent bank transactions",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/21_Isolation%20Forest%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
