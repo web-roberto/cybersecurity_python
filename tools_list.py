@@ -8,7 +8,7 @@ st.balloons()
 st.snow()
 st.toast("Loading...")
 st.write("80 Cyber Tools by Roberto in Python")
-st.subheader("Click below to see the Code")
+#st.subheader("Click to see the Code")
 st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
@@ -87,7 +87,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Cybersecurity with AI in Python............................")
+st.subheader("Cybersecurity with AI in Python................Click to see the Code..")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
@@ -174,7 +174,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Ethical Hacking in Python............................")
+st.subheader("Ethical Hacking in Python..........................Click to see the Code..")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
     {"href": "https://github.com/web-roberto/cybersecurity_python/blob/main/1_1_1_hacking_buscadores_parte1/ninjadorks.py",
