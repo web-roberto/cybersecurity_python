@@ -6,12 +6,9 @@ st.set_page_config(layout="wide")
 st.subheader("Roberto's- Cybersecurity (Python and Artificial Intelligence)")
 st.write("80 Cyber Tools by Roberto")
 st.subheader("Click below to see the Code")
-st.subheader("Cybersecurity Defense")
-st.write("..........")
-st.subheader("Cybersecutiy in ACTIVE DIRECTORY")
-st.write("..........")
-st.subheader("Cybersecurity with AI")
-#st.write("..........")
+st.subheader("Cybersecurity Defense............................")
+st.subheader("Cybersecutiy in ACTIVE DIRECTORY............................")
+st.subheader("Cybersecurity with AI............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
     {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
@@ -77,7 +74,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Ethical Hacking...........................................................................")
+st.subheader("Ethical Hacking............................")
 st.balloons()
 st.snow()
 st.toast("Loading...")
