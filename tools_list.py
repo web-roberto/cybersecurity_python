@@ -5,11 +5,11 @@ st.set_page_config(layout="wide")
 
 st.subheader("Roberto's- Cybersecurity (Python and Artificial Intelligence)")
 st.write("80 Cyber Tools by Roberto")
-st.subheader("CYBERSECURITY DEFENSE")
+st.subheader("Cybersecurity Defense")
 st.write("..........")
-st.subheader("CYBERSECURITY ACTIVE DIRECTORY")
+st.subheader("Cybersecutiy in ACTIVE DIRECTORY")
 st.write("..........")
-st.subheader("CYBERSECURITY WITH AI")
+st.subheader("Cybersecurity with AI")
 #st.write("..........")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
