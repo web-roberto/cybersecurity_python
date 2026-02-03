@@ -12,52 +12,66 @@ st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "TOOLS: KALI PURPLE,, ",
+    "text": "TOOLS: KALI PURPLE, WIRESHARK, AWS: RDS, VPC, PFSENSE (Firewall), LOAD BALANCERS,WAF (Web Application Framework) Web ACL, ",
+    "fondo": "yellowgreen" }, #
+    {"href": "",
+    "text": "TOOLS: VPLE (Vulnerable Pentesting Lab Environment), OWASP MULTILLIDAE II,VmWare Tools, Active Directory ",
+    "fondo": "yellowgreen" }, #
+     {"href": "",
+    "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, ",
+    "fondo": "yellowgreen" }, #
+
+   Full Disk Encryption con Bitlocker
+    {"href": "",
+    "text": "CRYPTOGRAPHY: symmetric, asymmetric, Caesar cipher, encryption, frequency analysis, substitution cipher, steganography, Playfair cipher, Vigenere cipher, perfect secrecy, one-time pads, stream ciphers (RC4: SSL, TLS, WEP, Kerberos and ChaCha20), block ciphers (AES, DES) ",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: dcode.fr https://www.base64encode.org/ https://cryptii.com/ https://csf.tools/ https://csf.tools/",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "ONLINE TOOLS: https://pages.nist.gov/800-63-3/",
+    "text": "ONLINE TOOLS: https://pages.nist.gov/800-63-3/ https://stylesuxx.github.io/steganography/  https://proton.prot-on.com/ https://www.sealpath.com/",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC, HMAC",
+    "text": "ONLINE TOOLS: https://www.autopsy.com/ ",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC",
     "fondo": "darkmagenta" }, # 
      {"href": "",
-    "text": "SKILLS: VMWare, RC4, ChaCha20, DES, AES, Diffie Hellman, RSA with OpenSSL,CFS (Cyber Security Framework)",
+    "text": "SKILLS: VMWare, RC4 (SSL, TLS, WEP, Kerberos), ChaCha20, DES, AES, Diffie Hellman, RSA with OpenSSL,CFS (Cyber Security Framework)",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "SKILLS: ARP, DHCP, SSL/TLS, CIDR, VLAN, DMZ, ACL, Security Groups, Port Forwarding, Anti-DoS / Anti-DDos",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "",
+    "text": "SKILLS:  triple DES, ECC (Error Correcting Codes), MAC (Message Authentication Code), HMAC (Hash based MAC), aes-256-cbc-hmac-sha256 ",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "",
+    "text": "SKILLS: ISO 27001: Information Security Management System, ISO 27002: Code of Practice for Information Security Management",
     "fondo": "red" }, # 
    {"href": "",
-    "text": "",
+    "text": "SKILLS: DLP (Data Loss Prevention with ManageEngine), Gardner Magic Quadrant, IRM (Information Rights Management) with PROTON and Sealpath ",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "SKILLS: DORA (Digital Operational Resilience Act) , Asset Inventory: CMDB (Configuration Management Database)",
     "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
-    "text": "In Python: Frequencies Analisys...code in Python",
+    "text": "In Python: Frequencies Analisys",
     "fondo": "red" }, # 
    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
     "text": "In Python: Vingere: Frequencies Analisys...code in Python",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/55.ChaCha20.ipynb",
-    "text": "In Python: ChaCha20...code in Python",
+    "text": "In Python: ChaCha20",
     "fondo": "darkmagenta" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/67.AES.ipynb",
-    "text": "In Python: AES...code in Python",
+    "text": "In Python: AES",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/tree/main/175.Caso_practico_deteccion_anomalias",
-    "text": "In Python: Anomaly Detection...code in Python",
+    "text": "In Python: Anomaly Detection",
     "fondo": "red" }, #
 ]
 for link in links:
