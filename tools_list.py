@@ -7,8 +7,7 @@ st.subheader("Roberto's- Cybersecurity (Python and Artificial Intelligence)")
 st.balloons()
 st.snow()
 st.toast("Loading...")
-st.write("80 Cyber Tools by Roberto in Python")
-#st.subheader("Click to see the Code")
+st.write("80 Cyber Tools by Roberto in Python in Ethical Hacking")
 st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
@@ -49,16 +48,16 @@ links = [
     "text": "Anomaly Detection...code in Python",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
+    "text": "Tool: VMWare   Tool: RC4   Tool: ChaCha20   Tool: DES Tool: AES Tool: Diffie Hellman    ",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
+    "text": "Tool: RSA with OpenSSL   Tool: CFS (Cyber Security Framework)  Tool: HASH    Tool: SHA-2   Tool: Tool:     ",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
+    "text": "Tool: RainBow Tables   Tool: CyberChef: Checksum    Tool: ECC   Tool: Hamming Codes   Tool: Tool:     ",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "Tool:    Tool:    Tool:    Tool:    Tool: Tool:     ",
+    "text": "Tool: Message Authenication Code   Tool: CBC-MAC    Tool: HMAC  Tool:    Tool: Tool:     ",
     "fondo": "red" }, # 
 ]
 for link in links:
