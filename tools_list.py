@@ -12,25 +12,25 @@ st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "Kali Purple, ",
+    "text": "TOOLS: KALI PURPLE,, ",
     "fondo": "yellowgreen" }, # 
-    {"href": "dcode.fr",
-    "text": "dcode.fr",
+    {"href": "",
+    "text": "ONLINE TOOLS: dcode.fr https://www.base64encode.org/ https://cryptii.com/ https://csf.tools/ https://csf.tools/",
     "fondo": "darkmagenta" }, # 
-    {"href": "https://www.base64encode.org/",
-    "text": "https://www.base64encode.org/",
+    {"href": "",
+    "text": "ONLINE TOOLS: https://pages.nist.gov/800-63-3/",
     "fondo": "blue" }, # 
-    {"href": "https://cryptii.com/pipes/rc4-encryption",
-    "text": "https://cryptii.com/pipes/rc4-encryption",
+    {"href": "",
+    "text": "",
     "fondo": "red" }, # 
-   {"href": "https://csf.tools/visualizations/csf-sunburst/",
-    "text": "https://csf.tools/visualizations/csf-sunburst/",
+   {"href": "",
+    "text": "",
     "fondo": "yellowgreen" }, # 
-    {"href": "https://gchq.github.io/CyberChef/",
-    "text": "https://gchq.github.io/CyberChef/",
+    {"href": "",
+    "text": "",
     "fondo": "darkmagenta" }, # 
-    {"href": "https://pages.nist.gov/800-63-3/",
-    "text": "https://pages.nist.gov/800-63-3/",
+    {"href": "",
+    "text": "",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
     "text": "Frequencies Analisys...code in Python",
@@ -48,16 +48,16 @@ links = [
     "text": "Anomaly Detection...code in Python",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "Tool: VMWare   Tool: RC4   Tool: ChaCha20   Tool: DES Tool: AES Tool: Diffie Hellman    ",
+    "text": "SKILLS: VMWare, RC4, ChaCha20, DES, AES, Diffie Hellman, RSA with OpenSSL,CFS (Cyber Security Framework)",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "Tool: RSA with OpenSSL   Tool: CFS (Cyber Security Framework)  Tool: HASH    Tool: SHA-2   Tool: Tool:     ",
+    "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC, HMAC",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "Tool: RainBow Tables   Tool: CyberChef: Checksum    Tool: ECC   Tool: Hamming Codes   Tool: Tool:     ",
+    "text": "",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "Tool: Message Authenication Code   Tool: CBC-MAC    Tool: HMAC  Tool:    Tool: Tool:     ",
+    "text": "",
     "fondo": "red" }, # 
 ]
 for link in links:
