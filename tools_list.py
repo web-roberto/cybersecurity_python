@@ -20,8 +20,6 @@ links = [
      {"href": "",
     "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, ",
     "fondo": "yellowgreen" }, #
-
-   Full Disk Encryption con Bitlocker
     {"href": "",
     "text": "CRYPTOGRAPHY: symmetric, asymmetric, Caesar cipher, encryption, frequency analysis, substitution cipher, steganography, Playfair cipher, Vigenere cipher, perfect secrecy, one-time pads, stream ciphers (RC4: SSL, TLS, WEP, Kerberos and ChaCha20), block ciphers (AES, DES) ",
     "fondo": "yellowgreen" }, # 
