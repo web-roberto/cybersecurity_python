@@ -78,16 +78,16 @@ st.subheader("Tools for Cybersecutiy in ACTIVE DIRECTORY........................
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "N8N",
+    "text": "Coming soon..",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Coming soon..",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Coming soon..",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "Coming soon..",
     "fondo": "red" }, # 
 ]
 for link in links:
