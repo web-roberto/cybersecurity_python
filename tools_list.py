@@ -16,22 +16,22 @@ links = [
     "fondo": "yellowgreen" }, #
     {"href": "",
     "text": "TOOLS: VPLE (Vulnerable Pentesting Lab Environment), OWASP MULTILLIDAE II,VmWare Tools, Active Directory ",
-    "fondo": "yellowgreen" }, #
+    "fondo": "blue" }, #
     {"href": "",
     "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, ",
-    "fondo": "yellowgreen" }, #
+    "fondo": "red" }, #
     {"href": "",
     "text": "CRYPTOGRAPHY: symmetric, asymmetric, Caesar cipher, encryption, frequency analysis, substitution cipher, steganography, Playfair cipher, Vigenere cipher, perfect secrecy, one-time pads, stream ciphers (RC4: SSL, TLS, WEP, Kerberos and ChaCha20), block ciphers (AES, DES) ",
-    "fondo": "yellowgreen" }, # 
+    "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: dcode.fr https://www.base64encode.org/ https://cryptii.com/ https://csf.tools/ https://csf.tools/",
-    "fondo": "darkmagenta" }, # 
+    "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: https://pages.nist.gov/800-63-3/ https://stylesuxx.github.io/steganography/  https://proton.prot-on.com/ https://www.sealpath.com/",
     "fondo": "blue" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: https://www.autopsy.com/ ",
-    "fondo": "blue" }, # 
+    "fondo": "red" }, # 
     {"href": "",
     "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC",
     "fondo": "darkmagenta" }, # 
@@ -46,16 +46,13 @@ links = [
     "fondo": "red" }, # 
     {"href": "",
     "text": "SKILLS: ISO 27001: Information Security Management System, ISO 27002: Code of Practice for Information Security Management",
-    "fondo": "red" }, # 
+    "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "SKILLS: DLP (Data Loss Prevention with ManageEngine), Gardner Magic Quadrant, IRM (Information Rights Management) with PROTON and Sealpath ",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "SKILLS: DORA (Digital Operational Resilience Act) , Asset Inventory: CMDB (Configuration Management Database)",
     "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
     "text": "In Python: Frequencies Analisys",
     "fondo": "red" }, # 
