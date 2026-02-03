@@ -21,6 +21,18 @@ links = [
     "text": "ONLINE TOOLS: https://pages.nist.gov/800-63-3/",
     "fondo": "blue" }, # 
     {"href": "",
+    "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC, HMAC",
+    "fondo": "darkmagenta" }, # 
+     {"href": "",
+    "text": "SKILLS: VMWare, RC4, ChaCha20, DES, AES, Diffie Hellman, RSA with OpenSSL,CFS (Cyber Security Framework)",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
+    {"href": "",
     "text": "",
     "fondo": "red" }, # 
    {"href": "",
@@ -33,32 +45,20 @@ links = [
     "text": "",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
-    "text": "Frequencies Analisys...code in Python",
+    "text": "In Python: Frequencies Analisys...code in Python",
     "fondo": "red" }, # 
    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
-    "text": "Vingere: Frequencies Analisys...code in Python",
+    "text": "In Python: Vingere: Frequencies Analisys...code in Python",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/55.ChaCha20.ipynb",
-    "text": "ChaCha20...code in Python",
+    "text": "In Python: ChaCha20...code in Python",
     "fondo": "darkmagenta" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/67.AES.ipynb",
-    "text": "AES...code in Python",
+    "text": "In Python: AES...code in Python",
     "fondo": "blue" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/tree/main/175.Caso_practico_deteccion_anomalias",
-    "text": "Anomaly Detection...code in Python",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "SKILLS: VMWare, RC4, ChaCha20, DES, AES, Diffie Hellman, RSA with OpenSSL,CFS (Cyber Security Framework)",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC, HMAC",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "red" }, # 
+    "text": "In Python: Anomaly Detection...code in Python",
+    "fondo": "red" }, #
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
