@@ -27,7 +27,7 @@ links = [
     "fondo": "red" }, #
     {"href": "",
     "text": "TOOLS: Wazuh (Extended Detection and Response (XDR)), Aplocker (Windows) and AppArmor (Linux), TheHive (Ticketing and incident management)",
-    "fondo": "red" }, #
+    "fondo": "blue" }, #
     {"href": "",
     "text": "TOOLS: TheHive with Cortex, Cukoo Sandbox, Nessus (automated vulnerability analysis), openVPN",
     "fondo": "red" }, #
@@ -45,10 +45,10 @@ links = [
     "fondo": "red" }, # 
     {"href": "",
     "text": "ONLINE TOOLS:  https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon https://virustotal.com/gui/ https://strangebee.com/",
-    "fondo": "red" }, # 
+    "fondo": "blue" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: https://wazuh.com/  https://docs.securityonion.net/en/2.4/index.html https://www.splunk.com/en_us/products/splunk-security-orchestration-and-automation.html",
-    "fondo": "red" }, # 
+    "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: https://github.com/cuckoosandbox",
     "fondo": "red" }, # 
@@ -72,13 +72,13 @@ links = [
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "SKILLS: DORA (Digital Operational Resilience Act) , Asset Inventory: CMDB (Configuration Management Database)",
-    "fondo": "darkmagenta" }, # 
+    "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "SKILLS: in CDN anti-Dos Akamai and CloudFare, Zero Trus and EPM (Endpoint Privilege Management, MISP (Malware Information Sharing Platform) )",
-    "fondo": "darkmagenta" }, # 
+    "fondo": "blue" }, # 
     {"href": "",
     "text": "SKILLS: Monitorizacion & Triage, Splunk integration with TheHive, NIST SP 800-61: Computer Security Incident Handling Guide, Splunk SOAR (Phantom) ",
-    "fondo": "darkmagenta" }, # 
+    "fondo": "red" }, # 
     {"href": "",
     "text": "SKILLS: Threat Hunting, CVE (Common Vulnerabilities and Exposures), CVSS (Common Vulnerability Scoring System),  CPE (Common Platform Enumeration) ",
     "fondo": "darkmagenta" }, # 
@@ -87,12 +87,12 @@ links = [
     "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "SKILLS: SailPoint, Cyberark, IAM, ActiveDirectory, Cybersecurity risk analysis, Cybersecurity threat modeling: MITRE ATTCK, STRIDE, PASTA metodology",
-    "fondo": "darkmagenta" }, # 
+    "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
     "text": "In Python: Frequencies Analisys",
     "fondo": "red" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
-    "text": "In Python: Vingere: Frequencies Analisys...code in Python",
+    "text": "In Python: Vingere: Frequencies Analisys",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/55.ChaCha20.ipynb",
     "text": "In Python: ChaCha20",
