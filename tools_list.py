@@ -21,7 +21,7 @@ links = [
     "fondo": "blue" }, #
     {"href": "",
     "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, Intrusion Detection/Prevention Systems (IDS/IPS):Security Onion 2 (Suricata, BroIDS, Wazuh, Zeek,...)",
-    "fondo": "red" }, #
+    "fondo": "darkmagenta" }, #
     {"href": "",
     "text": "TOOLS: openVPN, CIS Benchmark (hardened images), PROWLER )Audit a cloud account using CIS in AWS), OpenEDR (Endpoint Detection and Response), OpenEDR console in the cloud:  https://www.xcitium.com/free-edr/ ",
     "fondo": "red" }, #
@@ -69,7 +69,7 @@ links = [
     "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "SKILLS: DLP (Data Loss Prevention with ManageEngine), Gardner Magic Quadrant, IRM (Information Rights Management) with PROTON and Sealpath ",
-    "fondo": "yellowgreen" }, # 
+    "fondo": "red" }, # 
     {"href": "",
     "text": "SKILLS: DORA (Digital Operational Resilience Act) , Asset Inventory: CMDB (Configuration Management Database)",
     "fondo": "yellowgreen" }, # 
@@ -84,7 +84,7 @@ links = [
     "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "SKILLS: digital signature with appendix, digital signature with OpenSSL, PKI (Public Key Infraestrucutre), public key certificate with OpenSSL, Digital certificates in web browsing",
-    "fondo": "darkmagenta" }, # 
+    "fondo": "blue" }, # 
     {"href": "",
     "text": "SKILLS: SailPoint, Cyberark, IAM, ActiveDirectory, Cybersecurity risk analysis, Cybersecurity threat modeling: MITRE ATTCK, STRIDE, PASTA metodology",
     "fondo": "yellowgreen" }, # 
