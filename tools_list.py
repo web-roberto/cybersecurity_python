@@ -1,3 +1,5 @@
+
+
 import streamlit as st
 # https://docs.streamlit.io/develop/quick-reference/cheat-sheet
 
@@ -12,25 +14,43 @@ st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
     {"href": "",
-    "text": "TOOLS: KALI PURPLE, WIRESHARK, AWS: RDS, VPC, PFSENSE (Firewall), LOAD BALANCERS,WAF (Web Application Framework) Web ACL, ",
+    "text": "TOOLS: KALI PURPLE, WIRESHARK, AWS: RDS, VPC, PFSENSE (Firewall, squidProxy (Web Proxy), clamAV), LOAD BALANCERS,WAF (Web Application Framework) Web ACL, ",
     "fondo": "yellowgreen" }, #
     {"href": "",
-    "text": "TOOLS: VPLE (Vulnerable Pentesting Lab Environment), OWASP MULTILLIDAE II,VmWare Tools, Active Directory ",
+    "text": "TOOLS: VPLE (Vulnerable Pentesting Lab Environment), OWASP MULTILLIDAE II,VmWare Tools, Active Directory, SPLUNK (SIEM: Security Information and Event Management) ",
     "fondo": "blue" }, #
     {"href": "",
-    "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, ",
+    "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, Intrusion Detection/Prevention Systems (IDS/IPS):Security Onion 2 (Suricata, BroIDS, Wazuh, Zeek,...)",
+    "fondo": "red" }, #
+    {"href": "",
+    "text": "TOOLS: openVPN, CIS Benchmark (hardened images), PROWLER )Audit a cloud account using CIS in AWS), OpenEDR (Endpoint Detection and Response), OpenEDR console in the cloud:  https://www.xcitium.com/free-edr/ ",
+    "fondo": "red" }, #
+    {"href": "",
+    "text": "TOOLS: Wazuh (Extended Detection and Response (XDR)), Aplocker (Windows) and AppArmor (Linux), TheHive (Ticketing and incident management)",
+    "fondo": "red" }, #
+    {"href": "",
+    "text": "TOOLS: TheHive with Cortex, Cukoo Sandbox, Nessus (automated vulnerability analysis), openVPN",
     "fondo": "red" }, #
     {"href": "",
     "text": "CRYPTOGRAPHY: symmetric, asymmetric, Caesar cipher, encryption, frequency analysis, substitution cipher, steganography, Playfair cipher, Vigenere cipher, perfect secrecy, one-time pads, stream ciphers (RC4: SSL, TLS, WEP, Kerberos and ChaCha20), block ciphers (AES, DES) ",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "ONLINE TOOLS: dcode.fr https://www.base64encode.org/ https://cryptii.com/ https://csf.tools/ https://csf.tools/",
+    "text": "ONLINE TOOLS: dcode.fr https://www.base64encode.org/ https://cryptii.com/ https://csf.tools/ https://csf.tools/ https://www.splunk.com/ https://github.com/shauntdergrigorian/splunkqueries https://youtube.com/@splunkhowto",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "ONLINE TOOLS: https://pages.nist.gov/800-63-3/ https://stylesuxx.github.io/steganography/  https://proton.prot-on.com/ https://www.sealpath.com/",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "ONLINE TOOLS: https://www.autopsy.com/ ",
+    "text": "ONLINE TOOLS: https://www.autopsy.com/ https://www.cisecurity.org/controls/v8 https://www.cisecurity.org/cybersecurity-tools/cis-cat-pro https://github.com/prowler-cloud/prowler ",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "ONLINE TOOLS:  https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon https://virustotal.com/gui/ https://strangebee.com/",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "ONLINE TOOLS: https://wazuh.com/  https://docs.securityonion.net/en/2.4/index.html https://www.splunk.com/en_us/products/splunk-security-orchestration-and-automation.html",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "ONLINE TOOLS: https://github.com/cuckoosandbox",
     "fondo": "red" }, # 
     {"href": "",
     "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC",
@@ -52,6 +72,21 @@ links = [
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "SKILLS: DORA (Digital Operational Resilience Act) , Asset Inventory: CMDB (Configuration Management Database)",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SKILLS: in CDN anti-Dos Akamai and CloudFare, Zero Trus and EPM (Endpoint Privilege Management, MISP (Malware Information Sharing Platform) )",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SKILLS: Monitorizacion & Triage, Splunk integration with TheHive, NIST SP 800-61: Computer Security Incident Handling Guide, Splunk SOAR (Phantom) ",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SKILLS: Threat Hunting, CVE (Common Vulnerabilities and Exposures), CVSS (Common Vulnerability Scoring System),  CPE (Common Platform Enumeration) ",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SKILLS: digital signature with appendix, digital signature with OpenSSL, PKI (Public Key Infraestrucutre), public key certificate with OpenSSL, Digital certificates in web browsing",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SKILLS: SailPoint, Cyberark, IAM, ActiveDirectory, Cybersecurity risk analysis, Cybersecurity threat modeling: MITRE ATTCK, STRIDE, PASTA metodology",
     "fondo": "darkmagenta" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
     "text": "In Python: Frequencies Analisys",
