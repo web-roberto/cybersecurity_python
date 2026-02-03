@@ -11,13 +11,13 @@ st.write("80 Cyber Tools by Roberto in Python in Ethical Hacking")
 st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
-   {"href": "",
+    {"href": "",
     "text": "TOOLS: KALI PURPLE, WIRESHARK, AWS: RDS, VPC, PFSENSE (Firewall), LOAD BALANCERS,WAF (Web Application Framework) Web ACL, ",
     "fondo": "yellowgreen" }, #
     {"href": "",
     "text": "TOOLS: VPLE (Vulnerable Pentesting Lab Environment), OWASP MULTILLIDAE II,VmWare Tools, Active Directory ",
     "fondo": "yellowgreen" }, #
-     {"href": "",
+    {"href": "",
     "text": "TOOLS: Full Disk Encryption with Bitlocker and LUCKS, AUTOPSY, EASEUS BACKUP, ",
     "fondo": "yellowgreen" }, #
     {"href": "",
@@ -35,7 +35,7 @@ links = [
     {"href": "",
     "text": "SKILLS: HASH, SHA-2, RainBow Tables, Checksum, Hamming Codes, Message Authenication Code, CBC-MAC",
     "fondo": "darkmagenta" }, # 
-     {"href": "",
+    {"href": "",
     "text": "SKILLS: VMWare, RC4 (SSL, TLS, WEP, Kerberos), ChaCha20, DES, AES, Diffie Hellman, RSA with OpenSSL,CFS (Cyber Security Framework)",
     "fondo": "yellowgreen" }, # 
     {"href": "",
@@ -47,7 +47,7 @@ links = [
     {"href": "",
     "text": "SKILLS: ISO 27001: Information Security Management System, ISO 27002: Code of Practice for Information Security Management",
     "fondo": "red" }, # 
-   {"href": "",
+    {"href": "",
     "text": "SKILLS: DLP (Data Loss Prevention with ManageEngine), Gardner Magic Quadrant, IRM (Information Rights Management) with PROTON and Sealpath ",
     "fondo": "yellowgreen" }, # 
     {"href": "",
@@ -59,7 +59,7 @@ links = [
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/29.Analisis_frecuencias.ipynb",
     "text": "In Python: Frequencies Analisys",
     "fondo": "red" }, # 
-   {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
+    {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/38.Analisis_frecuencias_Vigenere.ipynb",
     "text": "In Python: Vingere: Frequencies Analisys...code in Python",
     "fondo": "yellowgreen" }, # 
     {"href": "https://github.com/web-roberto/defensive_cyber_python/blob/main/55.ChaCha20.ipynb",
