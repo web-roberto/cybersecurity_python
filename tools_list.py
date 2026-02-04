@@ -328,14 +328,92 @@ links = [
     "text": "Alternatives to NMAP: NAABU and NETCAT, Ultra-fast port scanning: MASSCAN",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Troll1 machine resolution, Bug Bounty → https://pentester.land/writeups/",
     "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "Vulnhub vulnerable environment →  vple (virtual pentesting Lab Environment is a virtual machine)",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "Subdomain identification → Subfinder, Sublist3r, and Subbrute",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "Identification of web technologies →  WhatWeb and WebAnalyze , Content identification → Dirbuster",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "Gobuster → like Dirbuster but in Go and uses brute force on subdomains",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "Seclists → for brute-force passwords, Vulnerability analysis → OWASP ZAP Proxy",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "Spidering → searches all URLs within a page,",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SECtheBOX → Secure Development Cycle - this tool is placed within a CICD automatic check",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "Nikto and Skipfish (worse than Nikto) → website vulnerability analysis",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "Nuclei and Nuclei Templates are web vulnerability scanners and other tools, and they have a YAML template repository",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "Advanced fuzzing with ffuf, Commix Exploitation I do command Injection, Cyberchef →  regular expressions for emails,...",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "Explotation  Changeme → searches for default credentials, Gitleaks: detect leaks and search in the old commits",
+    "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "coming.",
     "fondo": "blue" }, # 
     {"href": "",
     "text": "coming.",
     "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, #    
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+        {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
