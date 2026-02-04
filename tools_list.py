@@ -10,6 +10,72 @@ st.balloons()
 st.snow()
 st.toast("Loading...")
 st.write("80 Cyber Tools by Roberto in Python in Ethical Hacking")
+st.subheader("Cybersecurity with Machine Learning (AI) in Python................Click to see the Code..")
+#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
+links = [
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
+    "text": " Linear Regression - Predicting the cost of a security incident",
+    "fondo": "yellowgreen" }, # 4
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/5_Regresi%C3%B3n%20Log%C3%ADstica%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
+    "text": " Logistic Regression - SPAM Detection",
+    "fondo": "darkmagenta" }, # 5
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/6_Visualizaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
+    "text": "Visualization of the dataset",
+    "fondo": "blue" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/7_Divisi%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
+    "text": "Division of the data set",
+    "fondo": "red" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/8_Preparaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
+    "text":  "Preparing the data set",
+    "fondo": "yellowgreen" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/9_Creaci%C3%B3n%20de%20Transformadores%20y%20Pipelines%20personalizados.ipynb",
+    "text": " Creation of custom transformers and pipelines",
+    "fondo": "darkmagenta" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/10_Evaluaci%C3%B3n%20de%20resultados.ipynb",
+    "text": " Evaluation of results",
+    "fondo": "blue" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/11_Support%20Vector%20Machine%20-%20Detecci%C3%B3n%20de%20URLs%20maliciosas.ipynb",
+    "text": " Support Vector Machine (SVM) - Dataset: Malicious URL Detection",
+    "fondo": "red" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/12_%C3%81rboles%20de%20decisi%C3%B3n%20-%20Detecci%C3%B3n%20de%20malware%20en%20Android.ipynb",
+    "text": " Decision trees",
+    "fondo": "yellowgreen" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/13_Random%20Forests%20-%20Detecci%C3%B3n%20de%20Malware%20en%20Android.ipynb",
+    "text": " Random Forest - Malware detection on Android",
+    "fondo": "darkmagenta" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/14_T%C3%A9cnicas%20de%20selecci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
+    "text": "Feature selection: Malware detection on Android",
+    "fondo": "blue" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/15_PCA%20-%20Extracci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
+    "text": "  Principal Component Analysis (PCA): Malware detection on Android",
+    "fondo": "red" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/16_T%C3%A9cnicas%20de%20selecci%C3%B3n%20del%20modelo.ipynb",
+    "text": " Model selection: Malware detection on Android ",
+    "fondo": "yellowgreen" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/17_KMEANS%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
+    "text": "KMEANS: detection of fraudulent bank transactions",
+    "fondo": "blue" }, #
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/18_DBSCAN%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
+    "text": "DBSCAN: detection of fraudulent bank transactions",
+    "fondo": "blue" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/19_Naive%20Bayes%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
+    "text": "Naive Bayes: Spam detection",
+    "fondo": "red" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/20_Distribuci%C3%B3n%20Gaussiana%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
+    "text": "Gaussian Distribution: detection of fraudulent bank transactions",
+    "fondo": "yellowgreen" }, # 
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/21_Isolation%20Forest%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
+    "text": "Isolation Forest: detection of fraudulent bank transactions",
+    "fondo": "darkmagenta" }, #    
+    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/22_Redes%20Neuronales%20Artificiales%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
+    "text": "Artificial Neural Networks (ANNs): detection of fraudulent bank transactions",
+    "fondo": "blue" }, #   
+]
+for link in links:
+    st.markdown(f"""<a href="{link['href']}" target="_blank">
+        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
+            {link['text']}
+        </button></a>""",unsafe_allow_html=True) 
 st.subheader("Tools for Defensive Cybersecurity............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
@@ -130,72 +196,7 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Cybersecurity with AI in Python................Click to see the Code..")
-#greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
-links = [
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/4_Regresi%C3%B3n%20Lineal%20-%20Predicci%C3%B3n%20del%20coste%20de%20un%20incidente%20de%20seguridad.ipynb",
-    "text": " Linear Regression - Predicting the cost of a security incident",
-    "fondo": "yellowgreen" }, # 4
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/5_Regresi%C3%B3n%20Log%C3%ADstica%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
-    "text": " Logistic Regression - SPAM Detection",
-    "fondo": "darkmagenta" }, # 5
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/6_Visualizaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
-    "text": "Visualization of the dataset",
-    "fondo": "blue" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/7_Divisi%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
-    "text": "Division of the data set",
-    "fondo": "red" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/8_Preparaci%C3%B3n%20del%20conjunto%20de%20datos.ipynb",
-    "text":  "Preparing the data set",
-    "fondo": "yellowgreen" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/9_Creaci%C3%B3n%20de%20Transformadores%20y%20Pipelines%20personalizados.ipynb",
-    "text": " Creation of custom transformers and pipelines",
-    "fondo": "darkmagenta" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/10_Evaluaci%C3%B3n%20de%20resultados.ipynb",
-    "text": " Evaluation of results",
-    "fondo": "blue" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/11_Support%20Vector%20Machine%20-%20Detecci%C3%B3n%20de%20URLs%20maliciosas.ipynb",
-    "text": " Support Vector Machine (SVM) - Dataset: Malicious URL Detection",
-    "fondo": "red" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/12_%C3%81rboles%20de%20decisi%C3%B3n%20-%20Detecci%C3%B3n%20de%20malware%20en%20Android.ipynb",
-    "text": " Decision trees",
-    "fondo": "yellowgreen" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/13_Random%20Forests%20-%20Detecci%C3%B3n%20de%20Malware%20en%20Android.ipynb",
-    "text": " Random Forest - Malware detection on Android",
-    "fondo": "darkmagenta" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/14_T%C3%A9cnicas%20de%20selecci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
-    "text": "Feature selection: Malware detection on Android",
-    "fondo": "blue" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/15_PCA%20-%20Extracci%C3%B3n%20de%20caracter%C3%ADsticas.ipynb",
-    "text": "  Principal Component Analysis (PCA): Malware detection on Android",
-    "fondo": "red" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/16_T%C3%A9cnicas%20de%20selecci%C3%B3n%20del%20modelo.ipynb",
-    "text": " Model selection: Malware detection on Android ",
-    "fondo": "yellowgreen" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/17_KMEANS%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "KMEANS: detection of fraudulent bank transactions",
-    "fondo": "blue" }, #
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/18_DBSCAN%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "DBSCAN: detection of fraudulent bank transactions",
-    "fondo": "blue" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/19_Naive%20Bayes%20-%20Detecci%C3%B3n%20de%20SPAM.ipynb",
-    "text": "Naive Bayes: Spam detection",
-    "fondo": "red" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/20_Distribuci%C3%B3n%20Gaussiana%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "Gaussian Distribution: detection of fraudulent bank transactions",
-    "fondo": "yellowgreen" }, # 
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/21_Isolation%20Forest%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "Isolation Forest: detection of fraudulent bank transactions",
-    "fondo": "darkmagenta" }, #    
-    {"href": "https://github.com/web-roberto/Cybersecurity-with-MachineLearning/blob/main/22_Redes%20Neuronales%20Artificiales%20-%20Detecci%C3%B3n%20de%20transacciones%20bancarias%20fraudulentas.ipynb",
-    "text": "Artificial Neural Networks (ANNs): detection of fraudulent bank transactions",
-    "fondo": "blue" }, #   
-]
-for link in links:
-    st.markdown(f"""<a href="{link['href']}" target="_blank">
-        <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
-            {link['text']}
-        </button></a>""",unsafe_allow_html=True) 
+
 st.subheader("Tools for Ethical Hacking............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
