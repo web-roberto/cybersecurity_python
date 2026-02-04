@@ -298,22 +298,22 @@ links = [
     "text": "Social Engineering Toolkit (SET) →  an open-source Python tool for social-engineering and penetration testing",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "Polymorph- malware that modifies its code or appearance with each infection, while its harmful functionality remains the same",
+    "text": "Advanced exploitation WINREG, Migrating Meterpreter to another process, Deletion of evidence",
     "fondo": "red" }, # 
      {"href": "",
-    "text": "coming.",
+    "text": "Polymorph → ICMP/ MQTT traffic manipulation, Binary backdoors",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Linux and Window → Meterpreter (metasploit) para post-explotacion",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "UAC Bypass (UAC stands for Use Account →  limiting software access to administrative privileges)",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Memory dump with Mimikatz, Procdump and lsass.exe, Password cracking: John the Ripper and Hashcat",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "coming.",
