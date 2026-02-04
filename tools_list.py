@@ -216,55 +216,55 @@ st.subheader("Tools for Ethical Hacking............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "coming.",
+    "text": "OSSTMM (Open Source Security Testing Methodology Manual) → https://www.isecom.org/OSSTMM.3.pdf",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Examples of Ethical Hacking and Security Audit reports  → https://github.com/juliocesarfort/public-pentesting-reports ",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Passive OSINT gathering, Youtube and google dorks  → https://www.seotecnico.com/1000-comandos-busqueda-avanzada-google.html ",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Google: hacking database  → https://www.exploit-db.com/google-hacking-database,  Google Hacking  →  Boolean commands and operators ",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Shodan → search the entire internet for all devices (not web pages) and look among their ports",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Censys → scans the internet daily using Zmap and Zgraph",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Historical internet information → https://archive.org/, TheHarvester (inside Kali) → search for information about an organization or domain in many places",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Maltego inside Kali Linux → open-source intelligence (OSINT), forensics, and cybersecurity,",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": " Recon-ng → Python-based reconnaissance (recon) and OSINT (Open Source Intelligence) framework , FOCA →  Metadata Analysis ,Netawgoffy for Kali",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "CentralOps and DNSdumpster → Google recursive search, Wireshark and TCPdump → sniffers",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Vulnerable testing environment  → Metasploitable3 (vangrad), DNSrecon and zone transfer",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Google: bug bounty hackerone  →  apps that reward you if you find vulnerabilities in their system",
     "fondo": "red" }, # 
      {"href": "",
-    "text": "coming.",
+    "text": "NMAP → discovery of hosts, ports, services, operating systems, SNB Enumeration, SNMP Enumeration",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "CVE, CVSS,CPE -Common vulnerabilities and Exposures",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Nessus → Advanced Vulnerability Analysis, Metasploit → importing the results from Nessus, Armitage →  Metasploit Graphical Interface",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Manual exploitation of host vulnerabilities, Msfvenom → Custom Payload Creation",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Differences between Bridge, NAT, and Host-only modes in VMWare",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "coming.",
