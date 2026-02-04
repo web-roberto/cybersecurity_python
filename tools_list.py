@@ -190,6 +190,42 @@ links = [
     {"href": "",
     "text": "Coming soon..",
     "fondo": "red" }, # 
+     {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
+     {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
+     {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
@@ -201,16 +237,64 @@ st.subheader("Tools for Ethical Hacking............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "N8N",
+    "text": "",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "N8N",
+    "text": "",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
+     {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "red" }, # 
+     {"href": "",
+    "text": "",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "",
     "fondo": "red" }, # 
 ]
 for link in links:
