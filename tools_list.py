@@ -265,6 +265,42 @@ links = [
     "text": "Differences between Bridge, NAT, and Host-only modes in VMWare",
     "fondo": "yellowgreen" }, # 
     {"href": "",
+    "text": "Burp Suite  →  Interception Proxy, Spidereing an Crawling with Brup Suite and skipfhish",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "SQL injection, Code injections and context, SQLmap → Blind SQL injection",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "Path traversal, WebShells → malicious scripts, often written in PHP, ASP, or JSP",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "Unrestricted File Upload, HTML injection y Cross-Site-Scripting (XSS)",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "CSRF (Cross-Site Request Forgery) →  web security vulnerability where an attacker tricks an authenticated user's browser",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "XSStrike →  tool designed to detect Cross-Site Scripting (XSS) vulnerabilities",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "Cookie Tampering →  the unauthorized modification or manipulation of cookies by an attacker",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "Man in the middle (MITM), Bettercap → network monitoring tool for various jobs, in particular, man-in-the-middle attacks, network sniffing, and packet manipulation.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "ARP Spoofing →  when an attacker sends fake ARP messages. ",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "DNS Spoofin →  poisoning entries on a DNS server to redirect a targeted user to a malicious website under attacker control",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "Social Engineering Toolkit (SET) →  an open-source Python tool for social-engineering and penetration testing",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "Polymorph- malware that modifies its code or appearance with each infection, while its harmful functionality remains the same",
+    "fondo": "red" }, # 
+     {"href": "",
     "text": "coming.",
     "fondo": "darkmagenta" }, # 
     {"href": "",
@@ -300,6 +336,7 @@ links = [
     {"href": "",
     "text": "coming.",
     "fondo": "red" }, # 
+]
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
