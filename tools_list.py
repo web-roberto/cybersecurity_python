@@ -216,64 +216,64 @@ st.subheader("Tools for Ethical Hacking............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
    {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "",
-    "fondo": "red" }, # 
-     {"href": "",
-    "text": "",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "red" }, # 
      {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
     "fondo": "red" }, # 
 ]
 for link in links:
