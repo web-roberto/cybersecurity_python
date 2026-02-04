@@ -337,7 +337,6 @@ links = [
     "text": "coming.",
     "fondo": "red" }, # 
 ]
-]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
