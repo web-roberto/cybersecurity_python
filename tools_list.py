@@ -275,6 +275,69 @@ links = [
     {"href": "",
     "text": "coming.",
     "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, #
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "darkmagenta" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "blue" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "red" }, # 
+    {"href": "",
+    "text": "coming.",
+    "fondo": "yellowgreen" }, #
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
