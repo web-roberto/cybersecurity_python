@@ -175,57 +175,36 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True) 
-st.subheader("Tools for Cybersecutiy in ACTIVE DIRECTORY............................")
+st.subheader("Tools for Cybersecutiy in ACTIVE DIRECTORY (AD)............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
-   {"href": "",
-    "text": "Coming soon..",
+    {"href": "",
+    "text": "SKILLS: Installation and configuration of the Windows 2022 Domain Controller (DC) with AD, Group Policy (GPO) administration, gather information with AD",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "Coming soon..",
+    "text": "SKILLS: local enumeration of SAM, remote enumeration of SAM, AD Module: remote information gathering with a remote call to the DC, NTDS Enumeration",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "Coming soon..",
+    "text": "SKILLS: Safety descriptors and ACLs, Identification of vulnerable ACLs, List/Exploir of vulnerable ACEs, Explotacion DCSync, Password Spraying",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "Coming soon..",
+    "text": "SKILLS: Kerberos in AD Server DC, Enumeration of users with Kerberos Kali and Windows Server, Brute Force with Kerberos, AS-REQ Roasting, AS-REP Roasting",
     "fondo": "red" }, # 
-     {"href": "",
-    "text": "",
-    "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "SKILLS: TGS-REP Roasting (Kerberoasting), LSA, NTLM the SAM database, Dumping LSSAL (credentials of active sessions) and SAM in Windows Kali",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "",
+    "text": "SKILLS: Dumping Issas and SAM on Linux, Dumping cached domain credentials (mscash), Pass The Hash with Windows/Linux, Over Pass The Hash/Pass the Key  ",
     "fondo": "red" }, # 
-     {"href": "",
-    "text": "",
-    "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "",
+    "text": "SKILLS: Pass the Ticket En Powershell, ASK-TGT/TGS, Kerberos Golden Ticket, NTLM Roasting, LLMNR/NBTNS Poisoning, NTLM/SMB Relay, Token Impersonation",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
+    "text": "TOOLS: Powerview from PowerSploit, Impacket and RPCClient, Ldapsearch , pywerview, jxplorer, BloodHound: Information gathering and vulnerability analysis for AD ",
+    "fondo": "yellowgreen" }, #
+    {"href": "",
+    "text": "TOOLS: Vulnerable AD (Safebuffer), Rubeus, Covenant: Post Exploitation Framework",
     "fondo": "blue" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "red" }, # 
-     {"href": "",
-    "text": "",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "",
-    "fondo": "red" }, # 
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
