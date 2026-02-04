@@ -313,19 +313,19 @@ links = [
     "text": "Memory dump with Mimikatz, Procdump and lsass.exe, Password cracking: John the Ripper and Hashcat",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "",
+    "text": "CherryTree  →  a hierarchical note taking application",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "VulnHub →  https://github.com/vulhub/vulhub tr0ll1",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Snort → widely used open-source IDS for detecting malicious activity on the network → port, hosts scanning",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "NMAP → Packet fragmentation, Scanning using decoys, Spoofing the attacker's identity, Attacker speed control, IPv6 scans, scanning services and OS",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Alternatives to NMAP: NAABU and NETCAT, Ultra-fast port scanning: MASSCAN",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "coming.",
