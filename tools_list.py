@@ -1,5 +1,3 @@
-
-
 import streamlit as st
 # https://docs.streamlit.io/develop/quick-reference/cheat-sheet
 
@@ -215,7 +213,7 @@ for link in links:
 st.subheader("Tools for Ethical Hacking............................")
 #greenyellow,lime,orangered,yellowgreen,deeppink,    darkmagenta,blueviolet,red, blue
 links = [
-   {"href": "",
+    {"href": "",
     "text": "OSSTMM (Open Source Security Testing Methodology Manual) → https://www.isecom.org/OSSTMM.3.pdf",
     "fondo": "yellowgreen" }, # 
     {"href": "",
@@ -240,7 +238,7 @@ links = [
     "text": "Maltego inside Kali Linux → open-source intelligence (OSINT), forensics, and cybersecurity,",
     "fondo": "red" }, # 
     {"href": "",
-    "text": " Recon-ng → Python-based reconnaissance (recon) and OSINT (Open Source Intelligence) framework , FOCA →  Metadata Analysis ,Netawgoffy for Kali",
+    "text": "Recon-ng → Python-based reconnaissance (recon) and OSINT (Open Source Intelligence) framework , FOCA →  Metadata Analysis ,Netawgoffy for Kali",
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "CentralOps and DNSdumpster → Google recursive search, Wireshark and TCPdump → sniffers",
@@ -251,7 +249,7 @@ links = [
     {"href": "",
     "text": "Google: bug bounty hackerone  →  apps that reward you if you find vulnerabilities in their system",
     "fondo": "red" }, # 
-     {"href": "",
+    {"href": "",
     "text": "NMAP → discovery of hosts, ports, services, operating systems, SNB Enumeration, SNMP Enumeration",
     "fondo": "yellowgreen" }, # 
     {"href": "",
@@ -275,69 +273,6 @@ links = [
     {"href": "",
     "text": "coming.",
     "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, #
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, #
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
@@ -591,4 +526,5 @@ for link in links:
         <button style="background-color:{link['fondo']};color:white;padding:0.5em 1em;margin:0.5em;width:100%;border:none;text-align:start;border-radius:8px;cursor:pointer;">
             {link['text']}
         </button></a>""",unsafe_allow_html=True)
+
 
