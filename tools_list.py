@@ -389,32 +389,10 @@ links = [
     "fondo": "yellowgreen" }, # 
     {"href": "",
     "text": "Local Tunneling →  LocalTunnel y Ngrok, File transfer→python -m SimpleHTTPServer 9000
-",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Security and cloud computing (AWS)",
     "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
-        {"href": "",
-    "text": "coming.",
-    "fondo": "red" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "darkmagenta" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "yellowgreen" }, # 
-    {"href": "",
-    "text": "coming.",
-    "fondo": "blue" }, # 
 ]
 for link in links:
     st.markdown(f"""<a href="{link['href']}" target="_blank">
@@ -659,7 +637,6 @@ links = [
     "text": "Roberto's Cybersecurity Tool -> Exfiltration Steganography",
     "fondo": "blue" }, # 8_7_exfiltracion_esteganografia
 ]
-
 # col1, col2 = st.columns([6, 1], gap="small", vertical_alignment="top", border=True, width="stretch")
 # with col1:
     # st.success("Roberto's Cybersecurity Tool -> Google Hacking -> Hacking search engines") # 1_1_1_hacking_buscadores_parte1
