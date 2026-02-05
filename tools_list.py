@@ -370,7 +370,7 @@ links = [
     "text": "Halberd → Load Balancing detector, wafw00f → WAF detector, ttps://github.com/Elsfa7-110/bypass-firewalls-by-DNS-history → this script (ab)uses DNS history records",
     "fondo": "red" }, # 
     {"href": "",
-    "text": Antivirus evasion techniques with C# → https://github.com/daVinci13/Exe2shell",
+    "text": "Antivirus evasion techniques with C# → https://github.com/daVinci13/Exe2shell",
     "fondo": "darkmagenta" }, # 
     {"href": "",
     "text": "https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/",
