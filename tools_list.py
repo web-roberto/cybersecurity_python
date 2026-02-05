@@ -388,7 +388,7 @@ links = [
     "text": "Port Forwarding con SSH, Netcat Port-Pivot Relay (don't use meterpreter)",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "Local Tunneling →  LocalTunnel y Ngrok, File transfer→python -m SimpleHTTPServer 9000
+    "text": "Local Tunneling →  LocalTunnel y Ngrok, File transfer→python -m SimpleHTTPServer 9000",
     "fondo": "blue" }, # 
     {"href": "",
     "text": "Security and cloud computing (AWS)",
