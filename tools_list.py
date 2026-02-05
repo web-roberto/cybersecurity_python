@@ -364,31 +364,32 @@ links = [
     "text": "Explotation  Changeme → searches for default credentials, Gitleaks: detect leaks and search in the old commits",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "WhatWaf → https://github.com/Ekultek/WhatWaf, WafNinja → https://github.com/khalilbijjou/wafninja, WafPass → https://sectechno.com/wafpass-analyzing-waf-bypass-methods/ ",
     "fondo": "blue" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Halberd → Load Balancing detector, wafw00f → WAF detector, ttps://github.com/Elsfa7-110/bypass-firewalls-by-DNS-history → this script (ab)uses DNS history records",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": Antivirus evasion techniques with C# → https://github.com/daVinci13/Exe2shell",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "https://pentestlaboratories.com/2021/05/17/amsi-bypass-methods/",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "https://amsi.fail/ → obfuscates code in various ways to prevent the script payload from being detected",
     "fondo": "blue" }, #    
     {"href": "",
-    "text": "coming.",
+    "text": "Evasion with GreatSCT → AUTOMATIC defense evasion tool, Other evasion tools → Veil, Shellter, MSFMania",
     "fondo": "red" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Evasion with TheFatRat  →  post-exploitation and creates backdoors and payloads",
     "fondo": "darkmagenta" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Port Forwarding con SSH, Netcat Port-Pivot Relay (don't use meterpreter)",
     "fondo": "yellowgreen" }, # 
     {"href": "",
-    "text": "coming.",
+    "text": "Local Tunneling →  LocalTunnel y Ngrok, File transfer→python -m SimpleHTTPServer 9000
+",
     "fondo": "blue" }, # 
     {"href": "",
     "text": "coming.",
